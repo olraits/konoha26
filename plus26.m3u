@@ -1,4 +1,39 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="iNEWS" tvg-logo="https://hometv.pw/logo/lokal/inews.png" group-title="LOKAL +", iNews FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://103.226.232.196:8000/play/a01i/index.m3u8
+
+#EXTINF:-1 tvg-name="TRANS 7" tvg-logo="https://hometv.pw/logo/lokal/trans7.png" group-title="LOKAL +", TRANS 7 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.226.232.196:8000/play/a015/index.m3u8
+
+#EXTINF:-1 tvg-name="TRANS TV" tvg-logo="https://hometv.pw/logo/lokal/transtv.png" group-title="LOKAL +", TRANS TV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.226.232.196:8000/play/a016/index.m3u8
+
+#EXTINF:-1 tvg-name="ANTV" tvg-logo="https://hometv.pw/logo/lokal/antv.png" group-title="LOKAL +", ANTV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.226.232.196:8000/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-name="GTV" tvg-logo="https://hometv.pw/logo/lokal/gtv.png" group-title="LOKAL +", GTV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.226.232.196:8000/play/a00d/index.m3u8
+
+#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="LOKAL +", SCTV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.226.232.196:8000/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="LOKAL +", INDOSIAR FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.226.232.196:8000/play/a00l/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="LOKAL +", MOJI FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.226.232.196:8000/play/a022/index.m3u8
+
+#EXTINF:-1 group-title="LOKAL Vision+" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/7b3b11534b9ac313e5be.png",VTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.226.232.196:8000/play/a00p/index.m3u8
 =========================================== NATIONAL ===========================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -364,6 +399,385 @@ https://lingkartv.my.id/hls/lingkartv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Inspira.png" group-title="NATIONAL",INSPIRA TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",SG: Asian Food Network
+http://myteve.online:8080/stadnik2/7082341272/157549
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",SG: Channel 5
+http://myteve.online:8080/stadnik2/7082341272/59296
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",SG: Channel 8
+http://myteve.online:8080/stadnik2/7082341272/59293
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",SG: Channel News Asia (CNA)
+http://myteve.online:8080/stadnik2/7082341272/157524
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",SG: CinemaWorld
+http://myteve.online:8080/stadnik2/7082341272/171956
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",SG: Hits
+http://myteve.online:8080/stadnik2/7082341272/296891
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",SG: Suria
+http://myteve.online:8080/stadnik2/7082341272/59290
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",SG: Tech Storm
+http://myteve.online:8080/stadnik2/7082341272/299953
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: 01. ETV Live Event
+http://myteve.online:8080/stadnik2/7082341272/298491
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: 02. ETV Live Event 02
+http://myteve.online:8080/stadnik2/7082341272/298492
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: 24/7 Angry Birds Toons
+http://myteve.online:8080/stadnik2/7082341272/298493
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: 24/7 BabyBus Indonesia
+http://myteve.online:8080/stadnik2/7082341272/298494
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: 24/7 Donald Ducks
+http://myteve.online:8080/stadnik2/7082341272/298495
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: 24/7 Doraemon
+http://myteve.online:8080/stadnik2/7082341272/298496
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: 24/7 Just For Laughs
+http://myteve.online:8080/stadnik2/7082341272/298497
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: 24/7 Mr Bean Cartoon
+http://myteve.online:8080/stadnik2/7082341272/298498
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: 24/7 Mr. Bean Classic
+http://myteve.online:8080/stadnik2/7082341272/298499
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: 24/7 Tom And Jerry
+http://myteve.online:8080/stadnik2/7082341272/298500
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: 24/7 Upin Ipin
+http://myteve.online:8080/stadnik2/7082341272/298501
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: 24/7 Warkop DKI
+http://myteve.online:8080/stadnik2/7082341272/298502
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: ANIMAL PLANET
+http://myteve.online:8080/stadnik2/7082341272/157532
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Animax
+http://myteve.online:8080/stadnik2/7082341272/165081
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: AniPlus
+http://myteve.online:8080/stadnik2/7082341272/298504
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: ANTV
+http://myteve.online:8080/stadnik2/7082341272/165072
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Arirang
+http://myteve.online:8080/stadnik2/7082341272/247447
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Asian Food Network
+http://myteve.online:8080/stadnik2/7082341272/298503
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: AXN
+http://myteve.online:8080/stadnik2/7082341272/165079
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Baby TV
+http://myteve.online:8080/stadnik2/7082341272/157605
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Bali TV
+http://myteve.online:8080/stadnik2/7082341272/197962
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Balikpapan TV
+http://myteve.online:8080/stadnik2/7082341272/166409
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Bandung TV
+http://myteve.online:8080/stadnik2/7082341272/166416
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: BBC Earth
+http://myteve.online:8080/stadnik2/7082341272/165106
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: BBC Lifestyle
+http://myteve.online:8080/stadnik2/7082341272/264747
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: beIN Sports 1
+http://myteve.online:8080/stadnik2/7082341272/165105
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: beIN Sports 3
+http://myteve.online:8080/stadnik2/7082341272/298506
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Berita Satu
+http://myteve.online:8080/stadnik2/7082341272/162513
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Berita Satu World
+http://myteve.online:8080/stadnik2/7082341272/162136
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Bioskop Indonesia
+http://myteve.online:8080/stadnik2/7082341272/264801
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Bloomberg TV
+http://myteve.online:8080/stadnik2/7082341272/157599
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Boomerang
+http://myteve.online:8080/stadnik2/7082341272/165109
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Boomerang EN
+http://myteve.online:8080/stadnik2/7082341272/298507
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Cartoon Network
+http://myteve.online:8080/stadnik2/7082341272/157593
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: CBeebies
+http://myteve.online:8080/stadnik2/7082341272/247448
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: CCM
+http://myteve.online:8080/stadnik2/7082341272/165103
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Celestial Movies
+http://myteve.online:8080/stadnik2/7082341272/165065
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: CGTN
+http://myteve.online:8080/stadnik2/7082341272/298510
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: CGTN Documentary
+http://myteve.online:8080/stadnik2/7082341272/298511
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Champion TV 1
+http://myteve.online:8080/stadnik2/7082341272/298512
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Champion TV 2
+http://myteve.online:8080/stadnik2/7082341272/298513
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Champion TV 3
+http://myteve.online:8080/stadnik2/7082341272/298514
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Channel News Asia
+http://myteve.online:8080/stadnik2/7082341272/157602
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Chinese Drama
+http://myteve.online:8080/stadnik2/7082341272/298516
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: CinemaWorld
+http://myteve.online:8080/stadnik2/7082341272/165082
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Cinemax
+http://myteve.online:8080/stadnik2/7082341272/197964
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Citra Bioskop
+http://myteve.online:8080/stadnik2/7082341272/298519
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Citra Dangdut
+http://myteve.online:8080/stadnik2/7082341272/247446
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Citra Drama
+http://myteve.online:8080/stadnik2/7082341272/264748
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Citra Entertainment
+http://myteve.online:8080/stadnik2/7082341272/298520
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: CNBC Indonesia
+http://myteve.online:8080/stadnik2/7082341272/165062
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: CNN Indonesia
+http://myteve.online:8080/stadnik2/7082341272/162137
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: CNN International
+http://myteve.online:8080/stadnik2/7082341272/264778
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Crime+ Investigation
+http://myteve.online:8080/stadnik2/7082341272/165052
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Da Ai TV
+http://myteve.online:8080/stadnik2/7082341272/165061
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Discovery World
+http://myteve.online:8080/stadnik2/7082341272/157597
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Disney Channel
+http://myteve.online:8080/stadnik2/7082341272/165075
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Disney Junior
+http://myteve.online:8080/stadnik2/7082341272/162511
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Disney XD
+http://myteve.online:8080/stadnik2/7082341272/276564
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: DreamWorks
+http://myteve.online:8080/stadnik2/7082341272/157610
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Dunia Anak
+http://myteve.online:8080/stadnik2/7082341272/264753
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Dunia Lain
+http://myteve.online:8080/stadnik2/7082341272/298524
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Eat&Go
+http://myteve.online:8080/stadnik2/7082341272/264765
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Ent
+http://myteve.online:8080/stadnik2/7082341272/157581
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Etv Bioskop
+http://myteve.online:8080/stadnik2/7082341272/298526
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Etv Bioskop 02
+http://myteve.online:8080/stadnik2/7082341272/298527
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Etv Bioskop 03
+http://myteve.online:8080/stadnik2/7082341272/298528
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Etv Bioskop 04
+http://myteve.online:8080/stadnik2/7082341272/298529
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Fashion TV
+http://myteve.online:8080/stadnik2/7082341272/298530
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Fight Sport
+http://myteve.online:8080/stadnik2/7082341272/298531
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: FLIK
+http://myteve.online:8080/stadnik2/7082341272/165095
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: FMN
+http://myteve.online:8080/stadnik2/7082341272/165057
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Fox Life
+http://myteve.online:8080/stadnik2/7082341272/165083
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Galaxy
+http://myteve.online:8080/stadnik2/7082341272/264773
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Galaxy Premium
+http://myteve.online:8080/stadnik2/7082341272/264774
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: GEM
+http://myteve.online:8080/stadnik2/7082341272/298533
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: GTV
+http://myteve.online:8080/stadnik2/7082341272/157578
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: HBO
+http://myteve.online:8080/stadnik2/7082341272/197972
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: HBO Family
+http://myteve.online:8080/stadnik2/7082341272/197055
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: HBO Hits
+http://myteve.online:8080/stadnik2/7082341272/196480
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: HBO Signature
+http://myteve.online:8080/stadnik2/7082341272/221948
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: HGTV
+http://myteve.online:8080/stadnik2/7082341272/298535
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Hip Hip Horee!
+http://myteve.online:8080/stadnik2/7082341272/298536
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: History
+http://myteve.online:8080/stadnik2/7082341272/162519
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Hits
+http://myteve.online:8080/stadnik2/7082341272/165085
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Hits Movies
+http://myteve.online:8080/stadnik2/7082341272/221947
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Horee!
+http://myteve.online:8080/stadnik2/7082341272/264750
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Huma Betang TV
+http://myteve.online:8080/stadnik2/7082341272/299486
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Hunan TV
+http://myteve.online:8080/stadnik2/7082341272/247443
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: I AM Channel
+http://myteve.online:8080/stadnik2/7082341272/287423
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: I Konser
+http://myteve.online:8080/stadnik2/7082341272/264760
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: IDX
+http://myteve.online:8080/stadnik2/7082341272/157590
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: IMC
+http://myteve.online:8080/stadnik2/7082341272/264769
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Indi Kids
+http://myteve.online:8080/stadnik2/7082341272/298539
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Indosiar
+http://myteve.online:8080/stadnik2/7082341272/162138
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: INews
+http://myteve.online:8080/stadnik2/7082341272/157579
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Infotainment
+http://myteve.online:8080/stadnik2/7082341272/298541
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Insert
+http://myteve.online:8080/stadnik2/7082341272/264766
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Izzah TV
+http://myteve.online:8080/stadnik2/7082341272/275984
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Jak TV
+http://myteve.online:8080/stadnik2/7082341272/157601
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: JTV
+http://myteve.online:8080/stadnik2/7082341272/165091
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: K+
+http://myteve.online:8080/stadnik2/7082341272/197969
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: KBS World
+http://myteve.online:8080/stadnik2/7082341272/197053
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Kids TV
+http://myteve.online:8080/stadnik2/7082341272/162505
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: KIX
+http://myteve.online:8080/stadnik2/7082341272/165068
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Kompas TV
+http://myteve.online:8080/stadnik2/7082341272/165060
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Life
+http://myteve.online:8080/stadnik2/7082341272/157585
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Lifestyle & Fashion
+http://myteve.online:8080/stadnik2/7082341272/157592
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Lifetime
+http://myteve.online:8080/stadnik2/7082341272/298543
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Love Nature
+http://myteve.online:8080/stadnik2/7082341272/264756
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Mentari TV
+http://myteve.online:8080/stadnik2/7082341272/298546
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Metro TV
+http://myteve.online:8080/stadnik2/7082341272/165059
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Miao Mi
+http://myteve.online:8080/stadnik2/7082341272/266805
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: MNC News
+http://myteve.online:8080/stadnik2/7082341272/165058
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: MNC Sports
+http://myteve.online:8080/stadnik2/7082341272/157589
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: MNC Sports 2
+http://myteve.online:8080/stadnik2/7082341272/298548
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: MNC Sports 3
+http://myteve.online:8080/stadnik2/7082341272/298549
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: MNC TV
+http://myteve.online:8080/stadnik2/7082341272/165054
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Moji
+http://myteve.online:8080/stadnik2/7082341272/298550
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: MQTV
+http://myteve.online:8080/stadnik2/7082341272/298551
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: MTA 7 Asia
+http://myteve.online:8080/stadnik2/7082341272/162522
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: MTA TV
+http://myteve.online:8080/stadnik2/7082341272/298552
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Music TV
+http://myteve.online:8080/stadnik2/7082341272/165108
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: My Cinema
+http://myteve.online:8080/stadnik2/7082341272/298553
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: My Cinema Asia
+http://myteve.online:8080/stadnik2/7082341272/298554
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: My Family
+http://myteve.online:8080/stadnik2/7082341272/298555
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: My Kidz
+http://myteve.online:8080/stadnik2/7082341272/298556
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Nat Geo
+http://myteve.online:8080/stadnik2/7082341272/165094
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Nat Geo Wild
+http://myteve.online:8080/stadnik2/7082341272/197967
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: NBA TV
+http://myteve.online:8080/stadnik2/7082341272/298558
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Net
+http://myteve.online:8080/stadnik2/7082341272/80292
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: NHK World
+http://myteve.online:8080/stadnik2/7082341272/298560
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Nick Jr
+http://myteve.online:8080/stadnik2/7082341272/165107
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Nick Jr EN
+http://myteve.online:8080/stadnik2/7082341272/298561
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: nickelodeon
+http://myteve.online:8080/stadnik2/7082341272/162510
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Nusantara TV
+http://myteve.online:8080/stadnik2/7082341272/166410
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: OK TV
+http://myteve.online:8080/stadnik2/7082341272/221956
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: ONE
+http://myteve.online:8080/stadnik2/7082341272/298563
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Paramount Network
+http://myteve.online:8080/stadnik2/7082341272/298564
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Prambors
+http://myteve.online:8080/stadnik2/7082341272/264761
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Radar Cirebon TV
+http://myteve.online:8080/stadnik2/7082341272/300662
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Radio 51
+http://myteve.online:8080/stadnik2/7082341272/300846
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Rajawali TV
+http://myteve.online:8080/stadnik2/7082341272/196457
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: RCTI
+http://myteve.online:8080/stadnik2/7082341272/157591
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Reformed 21
+http://myteve.online:8080/stadnik2/7082341272/174574
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Rock Action
+http://myteve.online:8080/stadnik2/7082341272/298490
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Rock Entertaiment
+http://myteve.online:8080/stadnik2/7082341272/298565
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Rock Extreme
+http://myteve.online:8080/stadnik2/7082341272/298566
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Rodja TV
+http://myteve.online:8080/stadnik2/7082341272/264758
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: SCTV
+http://myteve.online:8080/stadnik2/7082341272/162141
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: SEA Today
+http://myteve.online:8080/stadnik2/7082341272/298568
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Sindonews TV
+http://myteve.online:8080/stadnik2/7082341272/299485
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Smithsonian Channel
+http://myteve.online:8080/stadnik2/7082341272/264767
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Sony One
+http://myteve.online:8080/stadnik2/7082341272/165077
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: SpoTV
+http://myteve.online:8080/stadnik2/7082341272/298570
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: SpoTV 2
+http://myteve.online:8080/stadnik2/7082341272/298571
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Tech Storm
+http://myteve.online:8080/stadnik2/7082341272/298572
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Tegar TV Lampung
+http://myteve.online:8080/stadnik2/7082341272/166411
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Thrill
+http://myteve.online:8080/stadnik2/7082341272/157580
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: TLC
+http://myteve.online:8080/stadnik2/7082341272/165086
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Trans 7
+http://myteve.online:8080/stadnik2/7082341272/162502
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Trans TV
+http://myteve.online:8080/stadnik2/7082341272/162503
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: TV 9 Nusantara
+http://myteve.online:8080/stadnik2/7082341272/162509
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: TV One
+http://myteve.online:8080/stadnik2/7082341272/296214
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: TVKU
+http://myteve.online:8080/stadnik2/7082341272/166709
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: TVN
+http://myteve.online:8080/stadnik2/7082341272/197965
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: TVN Movies
+http://myteve.online:8080/stadnik2/7082341272/157596
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: TVRI
+http://myteve.online:8080/stadnik2/7082341272/162504
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: TVRI 4
+http://myteve.online:8080/stadnik2/7082341272/287433
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: TVRI Kalimantan Barat
+http://myteve.online:8080/stadnik2/7082341272/166701
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: TVRI Kalimantan Tengah
+http://myteve.online:8080/stadnik2/7082341272/166702
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: TVRI Sport
+http://myteve.online:8080/stadnik2/7082341272/166686
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: TVRI Sulawesi Selatan
+http://myteve.online:8080/stadnik2/7082341272/166699
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: U Channel
+http://myteve.online:8080/stadnik2/7082341272/162146
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Usee Prime
+http://myteve.online:8080/stadnik2/7082341272/162524
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Usee Sport 1
+http://myteve.online:8080/stadnik2/7082341272/298577
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Usee Sport 2
+http://myteve.online:8080/stadnik2/7082341272/298578
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Vision Prime
+http://myteve.online:8080/stadnik2/7082341272/197958
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Warner TV
+http://myteve.online:8080/stadnik2/7082341272/157594
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: Zee Bioskop
+http://myteve.online:8080/stadnik2/7082341272/157584
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1527/1527064.png" group-title="FREETVs",ID: ZooMoo
+http://myteve.online:8080/stadnik2/7082341272/264751
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/91/TVKU-BChannel.png/800px-TVKU-BChannel.png" group-title="NATIONAL",TVKU
 http://103.30.1.14:8080/hls/live.m3u8?checkedby:iptvcat.net

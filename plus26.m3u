@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="RCTI TV" tvg-logo="https://hometv.pw/logo/lokal/inews.png" group-title="LOKAL +", RCTI TV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://103.226.232.196:8000/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-name="Magna TV" tvg-logo="https://hometv.pw/logo/lokal/inews.png" group-title="LOKAL +", Magna TV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://103.226.232.196:8000/play/a023/index.m3u8
+
+#EXTINF:-1 tvg-name="Metro TV" tvg-logo="https://hometv.pw/logo/lokal/inews.png" group-title="LOKAL +", Metro TV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://103.226.232.196:8000/play/a018/index.m3u8
+
+#EXTINF:-1 tvg-name="Mentari TV" tvg-logo="https://hometv.pw/logo/lokal/inews.png" group-title="LOKAL +", Mentari TV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://103.226.232.196:8000/play/a007/index.m3u8
+
+#EXTINF:-1 tvg-name="MNCtv" tvg-logo="https://hometv.pw/logo/lokal/inews.png" group-title="LOKAL +", MNCtv FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://103.226.232.196:8000/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-name="TVOne" tvg-logo="https://hometv.pw/logo/lokal/inews.png" group-title="LOKAL +", TVOne FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://103.226.232.196:8000/play/a010/index.m3u8
+
 #EXTINF:-1 tvg-name="iNEWS" tvg-logo="https://hometv.pw/logo/lokal/inews.png" group-title="LOKAL +", iNews FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://103.226.232.196:8000/play/a01i/index.m3u8

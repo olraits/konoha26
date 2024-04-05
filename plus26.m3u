@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="RCTI TV" tvg-logo="https://hometv.pw/logo/lokal/inews.png" group-title="LOKAL +", RCTI TV FHD
+#EXTINF:-1 tvg-name="RCTI TV" tvg-logo="https://a0.anyrgb.com/pngimg/1392/378/rajawali-sctv-rcti-gtv-jakarta-live-television-television-channel-indonesia-broadcasting-online-and-offline.png" group-title="LOKAL +", RCTI TV FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://103.226.232.196:8000/play/a00a/index.m3u8
 
-#EXTINF:-1 tvg-name="Magna TV" tvg-logo="https://hometv.pw/logo/lokal/inews.png" group-title="LOKAL +", Magna TV FHD
+#EXTINF:-1 tvg-name="Magna TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/MagnaChannel.png/revision/latest?cb=20200805135934" group-title="LOKAL +", Magna TV FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://103.226.232.196:8000/play/a023/index.m3u8
 
-#EXTINF:-1 tvg-name="Metro TV" tvg-logo="https://hometv.pw/logo/lokal/inews.png" group-title="LOKAL +", Metro TV FHD
+#EXTINF:-1 tvg-name="Metro TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlgRvgJqEzSWxXiXC8ErBP_tK6zFwCGRiPkRZuRF6q-2uodU3SQYBfwKqXtKKODJAngHg&usqp=CAU" group-title="LOKAL +", Metro TV FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://103.226.232.196:8000/play/a018/index.m3u8
 
-#EXTINF:-1 tvg-name="Mentari TV" tvg-logo="https://hometv.pw/logo/lokal/inews.png" group-title="LOKAL +", Mentari TV FHD
+#EXTINF:-1 tvg-name="Mentari TV" tvg-logo="https://logowik.com/content/uploads/images/mentari-tv2070.logowik.com.webp" group-title="LOKAL +", Mentari TV FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://103.226.232.196:8000/play/a007/index.m3u8
 
-#EXTINF:-1 tvg-name="MNCtv" tvg-logo="https://hometv.pw/logo/lokal/inews.png" group-title="LOKAL +", MNCtv FHD
+#EXTINF:-1 tvg-name="MNCtv" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEyCqFb5IDdlonzCOEdbrtEaa5YJJyVshHSE9dxXIMcvnMlVmzR9ZT4WyiD-gsAzeqaf8ke7ivGbG0c2QRZdAEScUDBfrjIrh_61opXE-v292KGMvC9a-0NCaboxm8-K1MBuw2o_wJI84/s0-rw/MNCTV-2015-Logo-Download-Free-Vector-SVG-vector69.com.webp" group-title="LOKAL +", MNCtv FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://103.226.232.196:8000/play/a008/index.m3u8
 
-#EXTINF:-1 tvg-name="TVOne" tvg-logo="https://hometv.pw/logo/lokal/inews.png" group-title="LOKAL +", TVOne FHD
+#EXTINF:-1 tvg-name="TVOne" tvg-logo="https://p.kindpng.com/picc/s/335-3354310_indonesia-hd-png-download.png" group-title="LOKAL +", TVOne FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://103.226.232.196:8000/play/a010/index.m3u8
 

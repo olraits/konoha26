@@ -706,7 +706,7 @@ https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.m
 #EXTINF:-1 group-title=" HBO GO " tvg-logo="https://warningfm.github.io/v3/img/ew9mSea.png?v=1.0.0.1" tvg-id="CinemaxHD.id" tvg-name="Cinemax HD", Cinemax HD
 https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://mewangi.my.id/user/media/movies/CINEMAX.png" tvg-id="Cinemax.id" tvg-name="S.pix" group-title="MOVIES",S.Pix
+#EXTINF:-1 tvg-logo="https://tvwish.com/img/channel/28.png" tvg-id="Cinemax.id" tvg-name="S.pix" group-title="MOVIES",S.Pix
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49d5744735f739fe8bc763f35a70c533:b302c3e863e70cb55c6eee37b12f8ae9
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8

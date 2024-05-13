@@ -684,6 +684,8 @@ https://iptvqreatif.github.io/iptv/mentari.m3u8
 #KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
 #EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png", HBO HD
 https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
+http://cord-cutter.net:8080/95549031/69361122/46713
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c
 #EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png", HBO FAMILY HD

@@ -802,3 +802,70 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/yg3St6g/Movies-Now.jpg", MOVIES NOW
 http://opplextv.cyou:8080//live/7262771/7272772/66271.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="HKmovies",Douyu_Movies_1_dec=hardware
+http://epg.112114.xyz/douyu/4332
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="HKmovies",Douyu_Movies_2_dec=hardware
+http://epg.112114.xyz/douyu/36337
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="HKmovies",Douyu_Movies_3_dec=hardware
+http://epg.112114.xyz/douyu/2793084
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="HKmovies",Douyu_Movies_4_dec=hardware
+http://epg.112114.xyz/douyu/6140589
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="HKmovies",Douyu_Movies_5_dec=hardware
+http://epg.112114.xyz/douyu/252802
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="HKmovies",Douyu_Movies_6_dec=hardware
+http://epg.112114.xyz/douyu/4505431
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HKmovies",斗鱼云旅行1_dec=auto
+http://epg.112114.xyz/douyu/9358196
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HKmovies",斗鱼云旅游2_dec=auto
+http://epg.112114.xyz/douyu/6563725
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HKmovies",养猫吧_dec=auto
+http://epg.112114.xyz/douyu/648814
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HKmovies",开心麻花_dec=auto
+http://epg.112114.xyz/douyu/9374862
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HKmovies",小品1_dec=auto
+http://epg.112114.xyz/douyu/9067836
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HKmovies",小品2_dec=auto
+http://epg.112114.xyz/douyu/1486165
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HKmovies",宋小宝_dec=auto
+http://epg.112114.xyz/douyu/9817729
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HKmovies",赵本山_dec=auto
+http://epg.112114.xyz/douyu/9817716
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HKmovies",斗鱼电影1_dec=auto
+http://epg.112114.xyz/douyu/8985415
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HKmovies",斗鱼电影2_dec=auto
+http://epg.112114.xyz/douyu/9650887
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HKmovies",斗鱼电影3_dec=auto
+http://epg.112114.xyz/douyu/36337
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HKmovies",斗鱼电影4_dec=auto
+http://epg.112114.xyz/douyu/96577
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HKmovies",斗鱼电影5_dec=auto
+http://epg.112114.xyz/douyu/6140589
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HKmovies",斗鱼电影6_dec=auto
+http://epg.112114.xyz/douyu/20415
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HKmovies",斗鱼电影7_dec=auto
+http://epg.112114.xyz/douyu/122402
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HKmovies",斗鱼电影8_dec=auto
+http://epg.112114.xyz/douyu/9292492
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HKmovies",斗鱼电影9_dec=auto
+http://epg.112114.xyz/douyu/2516864
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HKmovies",斗鱼电影10_dec=auto
+http://epg.112114.xyz/douyu/4332
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HKmovies",斗鱼电影11_dec=auto
+http://epg.112114.xyz/douyu/9651304
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HKmovies",斗鱼电影12_dec=auto
+http://epg.112114.xyz/douyu/8814650
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HKmovies",斗鱼电影13_dec=auto
+http://epg.112114.xyz/douyu/8945323
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HKmovies",斗鱼电影14_dec=auto
+http://epg.112114.xyz/douyu/252802
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HKmovies",斗鱼电影15_dec=auto
+http://epg.112114.xyz/douyu/2436390
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HKmovies",斗鱼电视剧HD1_dec=auto
+http://epg.112114.xyz/douyu/2838296
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HKmovies",斗鱼电视剧HD2_dec=auto
+http://epg.112114.xyz/douyu/7489563
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HKmovies",斗鱼电视剧HD3_dec=auto
+http://epg.112114.xyz/douyu/6706214
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HKmovies",斗鱼电视剧HD4_dec=auto
+http://epg.112114.xyz/douyu/6566658
+

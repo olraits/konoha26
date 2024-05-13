@@ -528,7 +528,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 
 ==========================================Music============================================================
 #EXTINF:-1 group-logo="https://i.ibb.co/HqsC55N/pngwing-com-4.png",
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/mictv.png" group-title="MUSIC",MIC TV
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/mictv.png" group-title="Music",MIC TV
 https://v2.siar.us/mic/live/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_111.png" group-title="Music",Music TV

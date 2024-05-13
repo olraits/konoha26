@@ -780,30 +780,10 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://mewangi.my.id/user/media/movies/CINEMAX.png" tvg-id="Cinemax.id" tvg-name="Cinemax" group-title="MOVIES HBO",Cinemax MAX
+#EXTINF:-1 tvg-logo="https://mewangi.my.id/user/media/movies/CINEMAX.png" tvg-id="Cinemax.id" tvg-name="S.pix" group-title="MOVIES",S.Pix
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49d5744735f739fe8bc763f35a70c533:b302c3e863e70cb55c6eee37b12f8ae9
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png", HBO
-http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57235.m3u8
-http://208.115.225.174:14136
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png", HBO+
-http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58552.m3u8
-https://bit.ly/3FFkNmF
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO_2-logo-83DE992A19-seeklogo.com.png", HBO2
-http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58514.m3u8
-http://208.115.225.174:14140
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO_Family-logo-AC467BC653-seeklogo.com.png", HBO FAMILY
-http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58554.m3u8
-https://bit.ly/3tXEYtB
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO_Signature-logo-C4C09E6F28-seeklogo.com.png", HBO SIGNATURE
-http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58517.m3u8
-http://208.115.225.174:14160
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png", HBO XTREME
-http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57211.m3u8
-http://208.115.225.174:14165
-EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png", HBO POP
-https://bit.ly/3QOeNi9
 

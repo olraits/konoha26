@@ -782,27 +782,11 @@ https://liveaneviadev.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-name="MCE" tvg-logo="https://hometv.pw/logo/movies/mce.png" group-title="MOVIES",MCE
 http://210.210.155.35/uq2663/h/h18/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=My_Cinema_Europe_HD
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zh7bccs/Star-Movies.jpg" group-title="MOVIES", STAR MOVIES
-http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=282639&extension=ts
-http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=282639&extension=m3u8
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
-http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=MB7B3700339537003395&ct=19249&tsum=54d5231b311c4cd2b6716eafe88bb0dd
 
 #EXTINF:0 tvg-id="" tvg-name="" group-title="MOVIES" tvg-url="" tvg-logo="https://i.ibb.co/0Xhtnk1/sony-pic-logo-tv.jpg", SONY PIX
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/Wnjb66G/Picsart-23-06-13-13-36-35-532.jpg", &PRIVE
-http://opplextv.cyou:8080//live/7262771/7272772/66228.ts
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/DKh1xsn/Picsart-23-06-13-13-38-01-268.jpg", &FLIX
-http://opplextv.cyou:8080//live/7262771/7272772/66236.ts
-http://opplextv.cyou:8080//live/7262771/7272772/66236.m3u8
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/yg3St6g/Movies-Now.jpg", MOVIES NOW
-http://opplextv.cyou:8080//live/7262771/7272772/66271.ts
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/2fbpjjc62gjfhg4zfkygk/Hbo.jpeg?rlkey=la7ttd0lc42eg3qbq6e7yc5xr&dl=0" group-title="HBO CubMu", HBO (C)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/2fbpjjc62gjfhg4zfkygk/Hbo.jpeg?rlkey=la7ttd0lc42eg3qbq6e7yc5xr&dl=0" group-title="CupCupmuah", HBO (C)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -811,7 +795,7 @@ http://opplextv.cyou:8080//live/7262771/7272772/66271.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/x0v8hyh72po9yqg65cpk9/Hbohits.jpeg?rlkey=1fetfnjn21ksez9ej926ilyo4&dl=0" group-title="HBO CubMu", HBO Hits (C) 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/x0v8hyh72po9yqg65cpk9/Hbohits.jpeg?rlkey=1fetfnjn21ksez9ej926ilyo4&dl=0" group-title="CupCupmuah", HBO Hits (C) 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -820,7 +804,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/74tue4vh1tkgval0sjmh3/Hbofamily.jpeg?rlkey=j2sigs8dwenb4dcferbqguxzw&dl=0" group-title="HBO CubMu", HBO Family (C)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/74tue4vh1tkgval0sjmh3/Hbofamily.jpeg?rlkey=j2sigs8dwenb4dcferbqguxzw&dl=0" group-title="CupCupmuah", HBO Family (C)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -829,7 +813,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/10qx8p4oqbuegte3estnv/Hbo-sig.jpeg?rlkey=4bazihn3v0z8txmuqqkmtyuo7&dl=0" group-title="HBO CubMu", HBO Signature (C)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/10qx8p4oqbuegte3estnv/Hbo-sig.jpeg?rlkey=4bazihn3v0z8txmuqqkmtyuo7&dl=0" group-title="CupCupmuah", HBO Signature (C)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -838,11 +822,10 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.androidteve.workers.dev/pukgeruk
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.1.2
-#EXTINF:-1  tvg-name="warnertv" tvg-id="warnertv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/wbtv.png" group-title="MOVIES",WARNER TV (TRANSVISION)
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/cinemax.png" group-title="CupCupmuah",CINEMAX HD
+https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd

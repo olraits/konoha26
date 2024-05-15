@@ -47,7 +47,7 @@ http://iptvkita.my.id:25461/direct/hometv/3515
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
 https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
-#EXTINF:0 tvg-logo="https://i0.wp.com/www.maxmanroe.com/wp-content/uploads/2015/03/Net-TV-Media-Elektronik-Indonesia.png?fit=603%2C206&ssl=1" group-title="Local",NET (yt)
+#EXTINF:0 tvg-logo="https://i0.wp.com/www.maxmanroe.com/wp-content/uploads/2015/03/Net-TV-Media-Elektronik-Indonesia.png?fit=603%2C206&ssl=1" group-title="Local",NET (alt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 http://iptvkita.my.id:25461/direct/hometv/11
 
@@ -124,6 +124,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 ============================================================= NEWS =======================================================================
 ===========================================================================================================================================
 #EXTINF:-1 group-logo="https://lilir-play.github.io/img/newslogo.png",
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/cnn.png" group-title="News",CNN ID
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
+http://iptvkita.my.id:25461/direct/hometv/17
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/bloomberg.png" group-title="News",Bloomberg TV Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -285,10 +289,42 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinem
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
 
-#EXTINF:0 tvg-logo="https://companieslogo.com/img/orig/PARA_BIG-d8040ab9.png?t=1649781882" group-title="Movies",Paramount HD
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/9934/9934152.png" group-title="Movies",Eksyen21
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://cempedak-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
+http://iptvkita.my.id:25461/direct/hometv/20
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/9934/9934152.png" group-title="Movies",Thriler21
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+http://iptvkita.my.id:25461/direct/hometv/21
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/9934/9934152.png" group-title="Movies",Mandarin21
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+http://iptvkita.my.id:25461/direct/hometv/22
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/9934/9934152.png" group-title="Movies",Drama21
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+http://iptvkita.my.id:25461/direct/hometv/24
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/9934/9934152.png" group-title="Movies",Seraamm21
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+http://iptvkita.my.id:25461/direct/hometv/25
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/9934/9934152.png" group-title="Movies",Lokal21
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+http://iptvkita.my.id:25461/direct/hometv/26
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/9934/9934152.png" group-title="Movies",Komedi21
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+http://iptvkita.my.id:25461/direct/hometv/27
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/9934/9934152.png" group-title="Movies",JFL
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+http://iptvkita.my.id:25461/direct/hometv/28
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/9934/9934152.png" group-title="Movies",Bean(UK)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+http://iptvkita.my.id:25461/direct/hometv/30
 
 =================================================== ENTERTAINMENT ========================================================================
 ==========================================================================================================================================
@@ -484,6 +520,18 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4163/4163761.png" group-title="SPORTS",optus1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
+http://iptvkita.my.id:25461/direct/hometv/1841
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4163/4163761.png" group-title="SPORTS",Nowsports1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
+http://iptvkita.my.id:25461/direct/hometv/1844
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4163/4163761.png" group-title="SPORTS",ASSP1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
+http://iptvkita.my.id:25461/direct/hometv/1812
 
 =================================================== KIDS ==========================================================================
 ===================================================================================================================================

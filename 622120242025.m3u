@@ -412,6 +412,17 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
 https://cempedak-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8j4tT41.jpeg" group-title="KNOWLEDGE", Dmax
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GY1jxgh.jpeg" group-title="KNOWLEDGE", Discovery Turbo
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoveryturbo.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/08ugoWy.jpeg" group-title="KNOWLEDGE", Trvl Channel
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/trvlchannel.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CC7vpkK.png" group-title="KNOWLEDGE", Discovery Kids 
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverykids.m3u8
 
 ======================================================== SPORTS =====================================================================
 =====================================================================================================================================
@@ -496,6 +507,10 @@ http://iptvkita.my.id:25461/direct/hometv/1831
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://iptvkita.my.id:25461/direct/hometv/1832
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bBmWRBN/redbull.jpg" group-title="SPORTZ",Redbull Tv
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+
 =================================================== KIDS ==========================================================================
 ===================================================================================================================================
 #EXTINF:-1 group-logo="https://lilir-play.github.io/img/kid.png",
@@ -554,14 +569,12 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChann
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OvJ594S.png" group-title="Music", NagaKoplo
+https://nagaswarakoplo.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXOL8qrvkWUFh544oKsxrEp_o-C10ggnJwmSiE3qRqDB-AAOyDny7thTBqEoWqEkXmoLo&usqp=CAU" group-title="Music",Nagaswara (yt)
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/v2206
-https://pl.kokokputik.my.id/iptv/youtube/index.m3u8?id=Is03gZsBeq0
-
-#EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mtwLIQrNbDIHsc_CtG-a__OOZDoH0-08l1P7M7iA=s48-c-k-c0x00ffffff-no-rj" group-title="Music",Aquarius Musikindo (yt)
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/v2206
-https://pl.kokokputik.my.id/iptv/youtube/index.m3u8?id=YQ0ECV2mTuc
+#https://raw.githubusercontent.com/thefirefox12537/streams/master/nagaswarakoplo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/fHzfd4V/nagapop.png" group-title="Music", NagaPop
+https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 
 ============================================================== CHINA ========================================================================
 =============================================================================================================================================

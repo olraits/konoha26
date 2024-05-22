@@ -1026,6 +1026,9 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533f
 https://ythls.armelin.one/channel/UCpJRmMTfdv0iPbnjo6qBw_g.m3u8
 https://kister.net/mpl/yt2m3u8?w=@AquariusMusikindo
 https://ythls.onrender.com/channel/UCpJRmMTfdv0iPbnjo6qBw_g.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/86/05/ed/8605ed14-6dd9-807a-919d-e84851501637/QkwtTVMtV1ctTXVzaWNhX1N0dWRpb3MtQURBTV9JRD0xNTUwMTg0NDAzLnBuZw.png/1200x630cw.png", MUSICA INDONESIA
+https://shorturl.at/rDTHU
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716391666/ei/krpNZq3uFfG1vcAPwMyHkA4/ip/103.154.120.147/id/6hjSgiGlzdc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgIsbumnmQKy8Cg7iFVsiOzbqmZPpUKnVpe7tcsr1YfTUCICgickwBeDLdgIKkk4pk03aT-9y83kgh_61uk9427aJV/file/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

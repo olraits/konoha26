@@ -990,23 +990,7 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="NowMusic" tvg-logo="https://i.ibb.co/tM3zQ5V/rock.png", Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORTSs",ASSP 1
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-http://abcnew.site:8880/12mmk180105/81462658/1722
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png" group-title="SPORTSs",ASSP 2
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-http://abcnew.site:8880/12mmk180105/81462658/1721
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="SPORTSs",ASSP 3
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-http://abcnew.site:8880/12mmk180105/81462658/1720
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="SPORTSs",ASSP 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
-#https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/dash-wv/linear/2506/default_primary.mpd
-http://abcnew.site:8880/12mmk180105/81462658/1719
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vBW7SQG/MAXSTREAM.jpg" group-title="ENTERTAINMENT", MAXSTREAM
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/ (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
@@ -1027,7 +1011,6 @@ https://ythls.armelin.one/channel/UCpJRmMTfdv0iPbnjo6qBw_g.m3u8
 https://kister.net/mpl/yt2m3u8?w=@AquariusMusikindo
 https://ythls.onrender.com/channel/UCpJRmMTfdv0iPbnjo6qBw_g.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/86/05/ed/8605ed14-6dd9-807a-919d-e84851501637/QkwtTVMtV1ctTXVzaWNhX1N0dWRpb3MtQURBTV9JRD0xNTUwMTg0NDAzLnBuZw.png/1200x630cw.png", MUSICA INDONESIA
-https://shorturl.at/rDTHU
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716391666/ei/krpNZq3uFfG1vcAPwMyHkA4/ip/103.154.120.147/id/6hjSgiGlzdc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgIsbumnmQKy8Cg7iFVsiOzbqmZPpUKnVpe7tcsr1YfTUCICgickwBeDLdgIKkk4pk03aT-9y83kgh_61uk9427aJV/file/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/

@@ -1052,10 +1052,9 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533f
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/WfMdRN5/Aquarius-Musikindo.jpg", AQUARIUS MUSIKINDO
 https://ythls.armelin.one/channel/UCpJRmMTfdv0iPbnjo6qBw_g.m3u8
 https://kister.net/mpl/yt2m3u8?w=@AquariusMusikindo
-https://ythls.onrender.com/channel/UCpJRmMTfdv0iPbnjo6qBw_g.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/86/05/ed/8605ed14-6dd9-807a-919d-e84851501637/QkwtTVMtV1ctTXVzaWNhX1N0dWRpb3MtQURBTV9JRD0xNTUwMTg0NDAzLnBuZw.png/1200x630cw.png", MUSICA INDONESIA
-
+https://ythls.armelin.one/channel/UCNlU3oSU8UnJ_V9uMB-cPOg.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

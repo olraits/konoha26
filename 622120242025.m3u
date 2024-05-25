@@ -1335,3 +1335,30 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856fd0d66d017032d0246
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9qzCbqr/Picsart-23-06-12-11-29-57-494.jpg" group-title="MUSIC", SONG TV
 https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff0490184560acf62436a/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NtNxV9Z/Disney-Channel.jpg" group-title="KIDS", DISNEY CHANNEL
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57183.m3u8
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/60909
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=396314&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YQL8SRw/Disney-XD.jpg" group-title="KIDS", DISNEY XD
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57232.m3u8
+http://iptvtree.net:8080/F26646/f950f250/276564
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/276564
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KV0mJw0/Disney-Jr.jpg" group-title="KIDS", DISNEY JUNIOR
+http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479219&extension=ts
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:af:99:2d&stream=177331&extension=m3u8
+
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/ (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddylivehd.php?id=312 
+https://rawcdn.githack.com/broto121/ali/main/dj.m3u8
+#http://iptvtree.net:8080/ace2524d/15a571c413/162511
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sRFxxnv/VH1.jpg" group-title="ENTERTAINMENT", VH1
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58602.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="KNOWLEDGE", SMITHSONIAN
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57513.m3u8
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/264767
+http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=239082&extension=m3u8
+https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="ALTERNATIVE", DISCOVERY
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57409.m3u8

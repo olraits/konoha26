@@ -1278,6 +1278,7 @@ https://a8.siar.us/listen/campursari/stream
 https://liveaneviadev.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 #EXTINF:-1 tvg-logo="" group-title="NATIONAL",Liputan 6
 https://livestream.zazerconer.workers.dev/channel/UC1QpnGo11epfexw1bIiTHTg.m3u8
+
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/mF7gyWV/cn.png" group-title="KIDS", CARTOON NETWORK 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
@@ -1287,6 +1288,7 @@ https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1bb72f4f71b743c8b20de75ecebfd4a1:04466fa0a683bfdc5bc3cf0d67776722
 https://m7rovideolive.solocoo.tv/blueskylivedash/bluecartoonnetworkro/Manifest.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NyMzNn3/disneych.png" group-title="KIDS", DISNEY CHANNEL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1309,9 +1311,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0c85bd2c9c100093709
 #EXTINF:-1 group-title="KIDS" tvg-id="5f4ec10ed9636f00089b8c89" tvg-logo="https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/colorLogoPNG.png" ,Yu-Gi-Oh Pluto
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="KIDS" tvg-id="5dd6dae8ce788b0009eaf77b" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" ,Mr.Bean
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-id="Discovery HD World"  tvg-logo="https://i.ibb.co/QKMfRS0/discohdworld.png", DISCOVERY HD 
+EXTINF:-1 group-title="KNOWLEDGE" tvg-id="Discovery HD World"  tvg-logo="https://i.ibb.co/QKMfRS0/discohdworld.png", DISCOVERY HD 
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-id="Discovery Science"  tvg-logo="https://i.ibb.co/sQ5GGdW/discoscience.png", DISCOVERY SCIENCE
@@ -1323,226 +1323,21 @@ https://varun-iptv.netlify.app/m3u/HGTV.m3u8
 https://varun-iptv.netlify.app/m3u/TLC.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="MOVIES",LOTUS MACAU
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
-#EXTINF:-1 tvg-name="FLIK" tvg-logo="https://hometv.pw/logo/movies/flik.png" group-title="MOVIES",FLIK (Indi)
-https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+#EXTINF:-1 tvg-id="beINSportsXtraenEspanol.us" group-title="SPORT PREMIUM" tvg-logo="https://i.imgur.com/6hQkqEL.png", beIN SPORTS XTRA 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
 
-#EXTINF:-1 xui-id="86" tvg-id="" tvg-name="Flik" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lDIme8uMmBQVBmFJ1gM4xRrMSAL0UGjMT29-15=s900-c-k-c0x00ffffff-no-rj" group-title="MOVIES",FLIK
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRMlhpu8_3hnzXS_8TOocETE
 #EXTINF:-1 tvg-name="ROCK Entertainment" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png" group-title="MOVIES",ROCK Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
+
 #EXTINF:-1 tvg-id="USBD300002TU" tvg-name="ION" tvg-logo="https://i.ibb.co/KVh2kfQ/ion.png" group-title="MOVIES" , ION
 https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
-
 #EXTINF:-1 tvg-id="USBD300003LK" tvg-name="ION PLUS" tvg-logo="https://i.ibb.co/LnJSkjh/ionplus.png" group-title="MOVIES" , ION Plus
 https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8
-#EXTINF:-1 tvg-id="Sundance" tvg-name="" tvg-logo="https://i.ibb.co/bWLtQx6/sundncetv.png" group-title="MOVIES", Sundance TV 🇺🇸 🇪🇸
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7107df0ecf168438df3d5e35a06f5e8b:1541c20a7dc82b302ec9b97274910162
-https://ott.zapitv.com/live/eds_c2/sundance_hd/dash_live_enc/sundance_hd.mpd
 
-#EXTINF:-1 tvg-id="Sundance" tvg-name="" tvg-logo="https://i.ibb.co/bWLtQx6/sundncetv.png" group-title="MOVIES", Sundance TV 🇺🇸 🇪🇸
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:88_HD.smil/manifest.m3u8
-
-#EXTINF:-1 tvg-id="SYFY" tvg-name="" tvg-logo="https://i.ibb.co/gyvGPjT/syfy.png" group-title="MOVIES", SyFy 🇺🇸 🇪🇸
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=95ec1e26e80c38258a30101d06c8cbf7:0d0df5189256c0bf32c0cd0976bac5bd
-https://ott.zapitv.com/live/eds_c2/syfy/dash_live_enc/syfy.mpd
 #EXTINF:-1 tvg-id="XITE80sFLASHBLACK" tvg-name="XITE80sFLASHBLACK " tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20231024T231630SQUARE.png_20231024231631.png" group-title="MUSIC",XITE 80s FLASHBLACK 
 https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/80sFlashback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="XITE80sTHROWBLACK" tvg-name="XITE80sTHROWBACK " tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20231024T231632SQUARE.png_20231024231633.png" group-title="MUSIC",XITE 90s THROWBACK 
 https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/90sThrowback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="XITEROCKON" tvg-name="XITEROCKON " tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20231024T231621SQUARE.png_20231024231622.png" group-title="MUSIC",XITE ROCK ON
 https://delrqw6rbggz6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 channel-id="samsung-USBD3300004RH" tvg-id="USBD3300004RH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20231024T231908SQUARE.png_20231024231909.png" tvg-chno="1503" group-title="MUSIC" , XITE Hits
-https://i.mjh.nz/SamsungTVPlus/USBD3300004RH.m3u8|user-agent=okhttp/4.10.0
-#EXTINF:-1 channel-id="samsung-USBD3300008DG" tvg-id="USBD3300008DG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300008DG_20231024T231916SQUARE.png_20231024231917.png" tvg-chno="1512" group-title="MUSIC" , XITE Only Love
-https://i.mjh.nz/SamsungTVPlus/USBD3300008DG.m3u8|user-agent=okhttp/4.10.0
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", 24/7 FRIENDS
-http://117tv.icu:8080/live/X5xRz0/944877/66407.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", 24/7 RICK AND MORTY
-http://117tv.icu:8080/live/X5xRz0/944877/66302.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", 24/7 DRAGON BALL Z
-http://117tv.icu:8080/live/X5xRz0/944877/79572.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", 24/7 FULL HOUSE
-http://117tv.icu:8080/live/X5xRz0/944877/66269.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", 24/7 FAMILY GUY
-http://117tv.icu:8080/live/X5xRz0/944877/66317.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", Game Of Thrones
-http://117tv.icu:8080/live/X5xRz0/944877/66318.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", 24/7 KEEPING UP WITH THE KARDASHIANS
-http://117tv.icu:8080/live/X5xRz0/944877/66403.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", 24/7 FRESH PRINCE OF BEL-AIR
-http://117tv.icu:8080/live/X5xRz0/944877/79559.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", 24/7 THE FIRST 48HRS
-http://117tv.icu:8080/live/X5xRz0/944877/66393.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", 24/7 RIDICULOUSNESS
-http://117tv.icu:8080/live/X5xRz0/944877/66397.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", 24/7 SAVED BY THE BELL
-http://117tv.icu:8080/live/X5xRz0/944877/66344.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", 24/7 SEINFELD
-http://117tv.icu:8080/live/X5xRz0/944877/66303.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", South Park*
-http://117tv.icu:8080/live/X5xRz0/944877/66401.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", 24/7 PAW PATROL
-http://117tv.icu:8080/live/X5xRz0/944877/66311.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", The KING OF QUEENS
-http://117tv.icu:8080/live/X5xRz0/944877/79567.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", Knight Rider*
-http://117tv.icu:8080/live/X5xRz0/944877/83700.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", CINEBOX: ANIMATION
-http://117tv.icu:8080/live/X5xRz0/944877/119420.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", CINEBOX: BLOCKBUSTERS
-http://117tv.icu:8080/live/X5xRz0/944877/119421.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", CINEBOX: CLASSIC
-http://117tv.icu:8080/live/X5xRz0/944877/119422.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", CINEBOX: COMEDY
-http://117tv.icu:8080/live/X5xRz0/944877/119423.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", CINEBOX: CULT
-http://117tv.icu:8080/live/X5xRz0/944877/119424.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", CINEBOX: FAMILY
-http://117tv.icu:8080/live/X5xRz0/944877/119425.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", CINEBOX: GREATS
-http://117tv.icu:8080/live/X5xRz0/944877/119426.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", CINEBOX: GREATS TWO
-http://117tv.icu:8080/live/X5xRz0/944877/119427.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", CINEBOX: HISTORICAL
-http://117tv.icu:8080/live/X5xRz0/944877/119428.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", 24/7 Horror Movies
-http://117tv.icu:8080/live/X5xRz0/944877/119429.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", CINEBOX: MUSICAL
-http://117tv.icu:8080/live/X5xRz0/944877/119430.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", CINEBOX: MYSTERY
-http://117tv.icu:8080/live/X5xRz0/944877/119431.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", CINEBOX: PREMIERE
-http://117tv.icu:8080/live/X5xRz0/944877/119432.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", CINEBOX: ROMANCE
-http://117tv.icu:8080/live/X5xRz0/944877/119433.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", CINEBOX: SCI-FI
-http://117tv.icu:8080/live/X5xRz0/944877/119434.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", CINEBOX: WESTERN
-http://117tv.icu:8080/live/X5xRz0/944877/119435.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", CINEBOX: HITS
-http://117tv.icu:8080/live/X5xRz0/944877/119436.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", CINEBOX: THRILLER
-http://117tv.icu:8080/live/X5xRz0/944877/119437.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", DOCUBOX: 7NEWS SPOTLIGHT
-http://117tv.icu:8080/live/X5xRz0/944877/119438.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", DOCUBOX: ALL DOCUMENTERY
-http://117tv.icu:8080/live/X5xRz0/944877/119439.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", DOCUBOX: DISCOVERY
-http://117tv.icu:8080/live/X5xRz0/944877/119440.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", DOCUBOX: DW DOCUMENTERY
-http://117tv.icu:8080/live/X5xRz0/944877/119441.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", DOCUBOX: FREE DOCUMENTERY
-http://117tv.icu:8080/live/X5xRz0/944877/119442.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", DOCUBOX: FREE DOCUMENTERY ANILAMS
-http://117tv.icu:8080/live/X5xRz0/944877/119443.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", DOCUBOX: FRONTLINE PBS
-http://117tv.icu:8080/live/X5xRz0/944877/119444.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", DOCUBOX: NAT GEO WILD
-http://117tv.icu:8080/live/X5xRz0/944877/119447.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", DOCUBOX: NETFLIX
-http://117tv.icu:8080/live/X5xRz0/944877/119448.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", DOCUBOX: REAL CRIME
-http://117tv.icu:8080/live/X5xRz0/944877/119449.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", DOCUBOX: REAL WILD
-http://117tv.icu:8080/live/X5xRz0/944877/119451.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", 24/7 THE GOLDEN GIRLS
-http://117tv.icu:8080/live/X5xRz0/944877/120948.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", 24/7 THE FLINTSTONES
-http://117tv.icu:8080/live/X5xRz0/944877/120949.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", 24/7 COMEDY MOVIES
-http://117tv.icu:8080/live/X5xRz0/944877/121096.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", 24/7 STAR TREK
-http://117tv.icu:8080/live/X5xRz0/944877/121115.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", 24/7 FAMILY MATTERS
-http://117tv.icu:8080/live/X5xRz0/944877/125634.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", 24/7 TOM AND JERRY
-http://117tv.icu:8080/live/X5xRz0/944877/125635.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", 24/7 DUCK TALES
-http://117tv.icu:8080/live/X5xRz0/944877/125636.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", 24/7 TEEN TITANS GO!
-http://117tv.icu:8080/live/X5xRz0/944877/125637.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", 24/7 LOONEY TUNES
-http://117tv.icu:8080/live/X5xRz0/944877/125638.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", 24/7 THE SOPRANOS
-http://117tv.icu:8080/live/X5xRz0/944877/125971.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", 24/7 SEX IN THE CITY
-http://117tv.icu:8080/live/X5xRz0/944877/125972.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", 24/7 GUNSMOKE
-http://117tv.icu:8080/live/X5xRz0/944877/140069.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", 24/7 Adventure Time
-http://117tv.icu:8080/live/X5xRz0/944877/178879.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", 24/7 American Crime Story
-http://117tv.icu:8080/live/X5xRz0/944877/178876.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", 24/7 DRAGON BALL Z
-http://117tv.icu:8080/live/X5xRz0/944877/79572.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", 24/7 FULL HOUSE
-http://117tv.icu:8080/live/X5xRz0/944877/66269.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", 24/7 Black Ink Crew Chicago
-http://117tv.icu:8080/live/X5xRz0/944877/178859.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 CHANNELS", 24/7 Chuck
-http://117tv.icu:8080/live/X5xRz0/944877/178845.m3u8

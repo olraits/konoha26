@@ -368,16 +368,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeSt
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
-#EXTINF:0 tvg-logo="https://www.mshop.ba/wp-content/uploads/2019/07/logo-mshop.png" group-title="Lifestyle",M Shop Signature
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCShop/sa_dash_vmx/MNCShop.mpd
-
-#EXTINF:0 tvg-logo="https://maierverpackungen.de/fileadmin/user_upload/MShop_Logo-1.png" group-title="Lifestyle",M Shop Super Sale!
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCShopSmart/sa_dash_vmx/MNCShopSmart.mpd
-
 ====================================================== KNOWLEDGE ====================================================================
 =====================================================================================================================================
 #EXTINF:-1 group-logo="https://i.ibb.co/M8RkjmQ/cat-worldtv.png",
@@ -397,15 +387,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoCha
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
 https://cempedak-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
-
-#EXTINF:0 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/13859833.5484b1033fa8a.png" group-title="Knowledge",National Geographic Wild (yt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-https://pl.kokokputik.my.id/iptv/youtube/index.m3u8?id=PLR6KdmyTho
-
-#EXTINF:0 tvg-logo="https://yt3.ggpht.com/OsILVN24vcOj1TCJAy15Z_TFY1eYnDVj3EMnQIv5TreYmskDhtVn1Sz1IeBjoexUxjmXgKdO2Q=s48-c-k-c0x00ffffff-no-rj" group-title="Knowledge",National Geo kids (yt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-https://pl.kokokputik.my.id/iptv/youtube/index.m3u8?id=zuy5N_mhVDc
-
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Knowledge",CGTN Documentary
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -439,8 +420,6 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/trvlchannel.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverykids.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/jvx9qew6jkltzmdaupekj/talking-tom.jpg?rlkey=wm16mulie2eyu51itbo0qreok&dl=0" group-title="KIDS", TalkingTom
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf5f9962-2aa6-4d6c-ad48-493d36996bd2/dfpqyzw-714d347c-c17c-424d-b5b9-af905bf2477a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmNWY5OTYyLTJhYTYtNGQ2Yy1hZDQ4LTQ5M2QzNjk5NmJkMlwvZGZwcXl6dy03MTRkMzQ3Yy1jMTdjLTQyNGQtYjViOS1hZjkwNWJmMjQ3N2EucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wYcfB8Z2t2T0tQZeeDAz13PlTI7TeSHQMAvsTAQKD3E" group-title="KIDS", D*snye jr
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1716372898/ei/QnFNZoXtEoCykucP4Mi5iAY/ip/20.83.174.171/id/UmdMTatmQTQ.3/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-p5qs7nsk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/Yz/mm/44/mn/sn-p5qs7nsk/ms/lva/mv/u/mvi/1/pl/17/dover/11/pacing/0/keepalive/yes/mt/1716350681/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRQIgBu4jweYnmUjUi06tEzzVsRt_NnqseutdRfGq46yQo1cCIQDBTNGmWpCB55JrlDKD5nrdHYJUFcSL0RDF-NpwAR5uDQ%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRgIhAJJOIoKvfgt-VN1V6PCPP11zHRCg6M_uTOQUEH5Z_i8sAiEA2nIK6xSV3O98tRdya4QWBGJLn2o-OmbhH_y9U8u9msA%3D/playlist/index.m3u8
 
 ======================================================== SPORTS =====================================================================
 =====================================================================================================================================
@@ -507,40 +486,36 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1 tvg-id="beINSports1.qa" group-title="SPORTZ" tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0" ,beIN Sports 1 
+#EXTINF:-1 tvg-id="beINSports1.qa" group-title="SPORTZ" tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0", beIN Sports 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://iptvkita.my.id:25461/direct/hometv/1826
 
-#EXTINF:-1 tvg-id="beINSports2.qa" group-title="SPORTZ" tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0" ,beIN Sports 2 
+#EXTINF:-1 tvg-id="beINSports2.qa" group-title="SPORTZ" tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0", beIN Sports 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://iptvkita.my.id:25461/direct/hometv/1827
 
-#EXTINF:-1 tvg-id="beINSports3.qa" group-title="SPORTZ" tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0" ,beIN Sports 3 
+#EXTINF:-1 tvg-id="beINSports3.qa" group-title="SPORTZ" tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0", beIN Sports 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://iptvkita.my.id:25461/direct/hometv/1828
 
-#EXTINF:-1 tvg-id="beINSports4.qa" group-title="SPORTZ" tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0" ,beIN Sports 4 
+#EXTINF:-1 tvg-id="beINSports4.qa" group-title="SPORTZ" tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0", beIN Sports 4 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://iptvkita.my.id:25461/direct/hometv/1829
 
-#EXTINF:-1 tvg-id="beINSports5.qa" group-title="SPORTZ" tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0",beIN Sports 5 
+#EXTINF:-1 tvg-id="beINSports5.qa" group-title="SPORTZ" tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0", beIN Sports 5 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://iptvkita.my.id:25461/direct/hometv/1830
 
-#EXTINF:-1 tvg-id="beINSports6.qa" group-title="SPORTZ" tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0" ,beIN Sports 6 
+#EXTINF:-1 tvg-id="beINSports6.qa" group-title="SPORTZ" tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0", beIN Sports 6 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://iptvkita.my.id:25461/direct/hometv/1831
-
-#EXTINF:-1 tvg-id="beINSports7.qa" group-title="SPORTZ" tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0" ,beIN Sports 7 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://iptvkita.my.id:25461/direct/hometv/1832
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bBmWRBN/redbull.jpg" group-title="SPORTZ",Redbull Tv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/unifisports1.png" group-title="SPORTZ",UNIFI SPORTS 1
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/popmusik.png" group-title="Music",POP Musik
-https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
+http://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
 
 =================================================== KIDS ==========================================================================
 ===================================================================================================================================

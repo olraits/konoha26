@@ -1207,5 +1207,140 @@ https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://delrqw6rbggz6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="beINSportsXtraenEspanol.us" group-title="SPORT PREMIUM" tvg-logo="https://i.imgur.com/6hQkqEL.png", beIN SPORTS XTRA 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
+
 #EXTINF:-1  group-title="updetCHANNEL" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZSSsFBZJ6ngRAhS87y-O9WERBqNFRt8K54uuFB3=s88-c-k-c0x00ffffff-no-rj",Adi Hidayat TV
 https://ip.ashrtv.my.id/@AdiHidayatOfficial.m3u8
+#EXTINF:-1  group-title="updetCHANNEL" tvg-logo="https://yt3.googleusercontent.com/NjkP0xuLjschWIaiK1hOeWvFp6TcVJDCkiye66W9cGKH_oHo9D1EfgoEtexKYHOPewOlLaOEmzc=s900-c-k-c0x00ffffff-no-rj",Khalid Basamalah TV
+https://ip.ashrtv.my.id/@khalidbasalamah.m3u8
+#EXTINF:-1  group-title="updetCHANNEL" tvg-logo="https://yt3.ggpht.com/HZ_noBZdkxvG11FgOoSo8SUbhjAqlKBegw6nKnGOWTQf6EUQ3BMEPQQUK_MguEeYAvdYbfFH=s88-c-k-c0x00ffffff-no-rj",Dzikir TV
+https://ip.ashrtv.my.id/@LafadzDoa.m3u8
+#EXTINF:-1  group-title="updetCHANNEL" tvg-logo="https://yt3.googleusercontent.com/7vjFSZRETqb6BD1khuEBpVLQ9V1sh6yeA3GgS_MrTpfx9whSbh-7AJ9JpnIOT6HYjiEdowtTpA=s176-c-k-c0x00ffffff-no-rj",Surah Zikir TV
+https://ip.ashrtv.my.id/@zikir-channel.m3u8
+#EXTINF:-1  group-title="updetCHANNEL" tvg-logo="https://i.pinimg.com/736x/3f/88/a9/3f88a908727ba97c86b0981f560fe7ae.jpg",Sholawatan Kekinian
+https://ip.ashrtv.my.id/live/Xke7ewqbJIM.m3u8
+#EXTINF:-1  group-title="updetCHANNEL" tvg-logo="https://yt3.googleusercontent.com/TgL5KUN48UWo9ADJskGN0NEDD7QJRUvyotOQ5_i0X5fitOERE-d4Utvw8LQNSX9yXgKNmeaJZO4=s100-c-k-c0x00ffffff-no-rj",THE KPOP
+https://ip.ashrtv.my.id/@thekpop.m3u8
+#EXTINF:-1  group-title="updetCHANNEL" tvg-logo="https://yt3.ggpht.com/M0eY1tfgiwuyqrSlWIkzf5-6RZSARiuChjpXyZe-hfl9C2fn-I4leLtxKAqYqGZv_FgE4u5TKQ=s176-c-k-c0x00ffffff-no-rj-mo",LoFi Chill TV
+https://ip.ashrtv.my.id/live/jfKfPfyJRdk.m3u8
+#EXTINF:-1  group-title="updetCHANNEL" tvg-logo="https://yt3.googleusercontent.com/o6PkyuKAWplFubpNTQeofchs3lZ-LOXLARzh2GJABpgXjCt_tkyqI4PkYXjLwpjxoKkczlo=s176-c-k-c0x00ffffff-no-rj",Soft Jazz TV
+https://ip.ashrtv.my.id/live/XFdTycvQMQo.m3u8
+#EXTINF:-1  group-title="updetCHANNEL" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRat3T6TuBUiIsWMbnBd2ZUA6w6lYxg_bKbKFh4=s176-c-k-c0x00ffffff-no-rj",Narasi TV
+https://ip.ashrtv.my.id/@najwashihab.m3u8
+
+#EXTINF:-1 tvg-id="Sport" tvg-logo="https://play-lh.googleusercontent.com/NcrdWFjmF2GPRlif4xC-9WM4bQXxHjU4yuWVQjsdDh7xtKPc6nVSRhp-iOlFnpuepg" group-title="updetCHANNEL",FIFA+
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/fifa%2B.m3u8
+#EXTINF:-1 tvg-id="ParamountNetwork.id" tvg-logo="https://i.postimg.cc/Wb6SVqBt/20230520-101134.jpg" group-title="P_Movies",Paramount Network
+https://github.com/mimipipi22/lalajo/raw/main/paramount.m3u8
+#EXTINF:0 tvg-logo="https://media.info/i/lf/0/1507600205/1554.png" group-title="OLAHRAGA",Sky Sport PL
+https://kusnadipepenk.github.io/ntn/skyprem.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Animal_Planet_logo.svg" group-title="Knowledge",Animal Planet
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+#EXTINF:0 tvg-logo="https://e1.pngegg.com/pngimages/722/720/png-clipart-korean-drama-ico-korean-drama-512x512-icon-thumbnail.png" group-title="Drakor",Kmovies
+https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
+#EXTINF:0 tvg-logo="https://e1.pngegg.com/pngimages/722/720/png-clipart-korean-drama-ico-korean-drama-512x512-icon-thumbnail.png" group-title="Drakor",K-drama#
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
+#EXTINF:0 tvg-logo="https://e1.pngegg.com/pngimages/722/720/png-clipart-korean-drama-ico-korean-drama-512x512-icon-thumbnail.png" group-title="Drakor",Kpop SHow
+https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/9Fp86Hp6/Unbeaten-TV.png",Unbeaten TV
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Pet club" tvg-logo="https://i.postimg.cc/yYrqgVTB/image.jpg",Pet Club TV
+https://petclub-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Fishsports" tvg-logo="https://i.postimg.cc/QMJby51P/sports-fishing-512-X512-balck.png",Sport Fishing TV
+https://streams.sofast.tv/ptnr-yupptv/title-SPORT-FISHING-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KV0mJw0/Disney-Jr.jpg" group-title="KIDS", DISNEY JUNIOR
+http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479219&extension=ts
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=https://cubmupart4.apiv2x.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rsJmxqJ/Lingua.jpg" group-title="KNOWLEDGE", LINGUA
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341b51bd0904/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="KNOWLEDGE", SMITHSONIAN
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57513.m3u8
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/264767
+http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=239082&extension=m3u8
+https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BqB6MMt/TECHSTORM.jpg" group-title="KNOWLEDGE", TECHSTORM
+https://cdn08jtedge.indihometv.com/dassdvr/133/techstorm/manifest.mpd
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/298572
+http://iptvtree.net:8080/F26646/f950f250/298572
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel%28abe4ead2-1a88-4330-9f41-382fcf94bba2%29/manifest.mpd
+https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/05.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zh7bccs/Star-Movies.jpg" group-title="MOVIES", STAR MOVIES
+http://opplextv.cyou:8080//live/7262771/7272772/66213.ts
+http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=282639&extension=ts
+http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=282639&extension=m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="MOVIES" tvg-url="" tvg-logo="https://i.ibb.co/0Xhtnk1/sony-pic-logo-tv.jpg", SONY PIX
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/Wnjb66G/Picsart-23-06-13-13-36-35-532.jpg", &PRIVE HD
+http://opplextv.cyou:8080//live/7262771/7272772/66228.ts
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/DKh1xsn/Picsart-23-06-13-13-38-01-268.jpg", &FLIX HD
+http://opplextv.cyou:8080//live/7262771/7272772/66236.ts
+http://opplextv.cyou:8080//live/7262771/7272772/66236.m3u8
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/yg3St6g/Movies-Now.jpg", MOVIES NOW
+http://opplextv.cyou:8080//live/7262771/7272772/66271.ts
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/1YgjPLy/MN-PLUS.jpg", MN PLUS
+http://opplextv.cyou:8080//live/7262771/7272772/66244.ts
+#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png", HBO
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57235.m3u8
+http://208.115.225.174:14136
+#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png", HBO+
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58552.m3u8
+https://bit.ly/3FFkNmF
+#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO_2-logo-83DE992A19-seeklogo.com.png", HBO2
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58514.m3u8
+http://208.115.225.174:14140
+#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO_Family-logo-AC467BC653-seeklogo.com.png", HBO FAMILY
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58554.m3u8
+https://bit.ly/3tXEYtB
+#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO_Signature-logo-C4C09E6F28-seeklogo.com.png", HBO SIGNATURE
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58517.m3u8
+http://208.115.225.174:14160
+#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png", HBO XTREME
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57211.m3u8
+http://208.115.225.174:14165
+EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png", HBO POP
+https://bit.ly/3QOeNi9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9HWLWSD/MTV-CLASSIC.jpg" group-title="MUSIC", MTV CLASSIC
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58589.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch242%29/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv 
+EXTINF:-1 tvg-logo="https://i.ibb.co/QQjngRr/Musik-Indo.jpg" group-title="MUSIC", MUSIK INDONESIA
+https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
+https://cdnjkthw.transvision.co.id/live/master/2/4028c685730a4243017317dee5df1572/manifest.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vdrhtf9/Smart-Select-20230611-122931-Picsart.jpg" group-title="MUSIC", NUSANTARA
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685758bcfff0175ab9d2b374926/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ykcf7Gx/Smart-Select-20230610-155814-Picsart.jpg" group-title="MUSIC", CLUBBING
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856fd0d66d017032d0246a7f90/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9qzCbqr/Picsart-23-06-12-11-29-57-494.jpg" group-title="MUSIC", SONG TV
+https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff0490184560acf62436a/manifest.mpd
+
+EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ikonser_small.png" group-title="MUSIC", I-KONSER
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/ikonser/manifest.mpd

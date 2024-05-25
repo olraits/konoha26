@@ -1035,13 +1035,13 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c34
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv 
-EXTINF:-1 tvg-logo="https://i.ibb.co/5XDcC9s/Picsart-23-07-21-23-26-49-991.jpg" group-title="SPORTS", XTREM SPORTS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5XDcC9s/Picsart-23-07-21-23-26-49-991.jpg" group-title="SPORTS", XTREM SPORTS
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a4379740b7/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv 
-EXTINF:-1 tvg-logo="https://i.ibb.co/vhnss80/Picsart-23-07-22-00-04-24-794.jpg" group-title="SPORTS", SPEED TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vhnss80/Picsart-23-07-22-00-04-24-794.jpg" group-title="SPORTS", SPEED TV
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6857fe540a1018060b2307340bd/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -1173,7 +1173,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b2
 #EXTINF:-1 group-title="KIDS" tvg-id="5da0c85bd2c9c10009370984" tvg-logo="https://images.pluto.tv/channels/5da0c85bd2c9c10009370984/colorLogoPNG.png", Naruto
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-EXTINF:-1 group-title="KNOWLEDGE" tvg-id="Discovery HD World"  tvg-logo="https://i.ibb.co/QKMfRS0/discohdworld.png", DISCOVERY HD 
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-id="Discovery HD World"  tvg-logo="https://i.ibb.co/QKMfRS0/discohdworld.png", DISCOVERY HD 
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-id="Discovery Science"  tvg-logo="https://i.ibb.co/sQ5GGdW/discoscience.png", DISCOVERY SCIENCE
@@ -1305,7 +1305,7 @@ http://208.115.225.174:14160
 #EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png", HBO XTREME
 http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57211.m3u8
 http://208.115.225.174:14165
-EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png", HBO POP
+#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png", HBO POP
 https://bit.ly/3QOeNi9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9HWLWSD/MTV-CLASSIC.jpg" group-title="MUSIC", MTV CLASSIC
 http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58589.m3u8
@@ -1314,7 +1314,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch242%29/index
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv 
-EXTINF:-1 tvg-logo="https://i.ibb.co/QQjngRr/Musik-Indo.jpg" group-title="Konser", MUSIK INDONESIA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QQjngRr/Musik-Indo.jpg" group-title="Konser", MUSIK INDONESIA
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
 https://cdnjkthw.transvision.co.id/live/master/2/4028c685730a4243017317dee5df1572/manifest.m3u8
 
@@ -1336,7 +1336,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856fd0d66d017032d0246
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9qzCbqr/Picsart-23-06-12-11-29-57-494.jpg" group-title="MUSIC", SONG TV
 https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff0490184560acf62436a/manifest.mpd
 
-EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ikonser_small.png" group-title="Konser", I-KONSER
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ikonser_small.png" group-title="Konser", I-KONSER
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 

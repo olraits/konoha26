@@ -9,6 +9,28 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/sportstars.png" group-title="SPORT LOKAL",SPORTSTARS 1 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://melon-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#EXTINF:-1 group-title="Soccer" tvg-id="psjtv.id" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/psjtv.png",PSJ TV
+https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="JSport" tvg-id="jsports1.jp" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/J%20Sports.png",J Sports 1 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="JSport" tvg-id="jsports2.jp" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/J%20Sports.png",J Sports 2 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="JSport" tvg-id="jsports3.jp" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/J%20Sports.png",J Sports 3 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="JSport" tvg-id="jsports4.jp" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/J%20Sports.png",J Sports 4 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
+
 #EXTINF:0 tvg-logo="https://lilir-play.github.io/img/tvone.jpg" group-title="Local",TVONE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5

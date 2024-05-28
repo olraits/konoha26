@@ -5,6 +5,10 @@
 =====================================================================================================
 #EXTINF:-1 group-logo="https://lilir-play.github.io/img/lokal.png",
 
+#EXTINF:-1 group-title="Drakor" tvg-id="nadoo.sg" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/NaDooKorean.jpg",NaDoo Korean 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8
+
 #EXTINF:0 tvg-logo="https://lilir-play.github.io/img/tvone.jpg" group-title="Local",TVONE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5

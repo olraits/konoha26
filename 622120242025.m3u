@@ -31,6 +31,32 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&b
 #EXTINF:-1 group-title="JSport" tvg-id="jsports4.jp" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/J%20Sports.png",J Sports 4 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
 
+#EXTINF:-1 group-title="Kor Channels" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/ktv.png" ,KOREA TV
+https://hlive.ktv.go.kr/live/klive_h.stream/chunklist_w353580429.m3u8
+#EXTINF:-1 group-title="Kor Channels" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/ebs.png", EBS 1
+https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 group-title="Kor Channels" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/ebs.png" ,EBS 2
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 group-title="Kor Channels" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/ebs.png", EBS KIDS
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 group-title="Kor Channels" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/ebs.png", EBS+2
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 group-title="Kor Channels" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/mbc.png", MBC
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image/main/sbs.png" group-title="Kor Channels", SBS TV
+http://1.245.74.5:1935/live/tv/.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/film.gif" group-title="24/7 cine",Bioskop Action
+https://raw.githubusercontent.com/gala411/toettoet/main/action.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/film.gif" group-title="24/7 cine",Bioskop Horor
+https://raw.githubusercontent.com/gala411/toettoet/main/horor.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/film.gif" group-title="24/7 cine",Bioskop Mandarin
+https://raw.githubusercontent.com/gala411/toettoet/main/mandarin.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/film.gif" group-title="24/7 cine",Bioskop Comedy
+https://raw.githubusercontent.com/gala411/toettoet/main/comedy.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/film.gif" group-title="24/7 cine",Bioskop Indonesia
+https://raw.githubusercontent.com/gala411/toettoet/main/indonesia.m3u8
+
 #EXTINF:0 tvg-logo="https://lilir-play.github.io/img/tvone.jpg" group-title="Local",TVONE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5

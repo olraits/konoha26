@@ -5,6 +5,34 @@
 =====================================================================================================
 #EXTINF:-1 group-logo="https://lilir-play.github.io/img/lokal.png",
 
+#EXTINF:-1 group-title="Dakwah" tvg-id="khbtv.id" tvg-logo="https://iptv.urfan.web.id/logo/khbtv.png",KHB TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://ythls.urfan.web.id/stream/UCJHC3VbFsp7kJ2NxPGltwiw/master.m3u8
+
+#EXTINF:-1 group-title="Dakwah" tvg-id="rifqantv.id" tvg-logo="https://iptv.urfan.web.id/logo/rifqantv.png",Rifqan TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://ythls.urfan.web.id/stream/UCkrLd1cy4AUOp1pAdu1Ru7Q/master.m3u8
+
+#EXTINF:-1 group-title="Dakwah" tvg-id="srbtv.id" tvg-logo="https://iptv.urfan.web.id/logo/srbtv.png",SRB TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://ythls.urfan.web.id/stream/UC3_QdDQnRVRDJzq56JTO_Zw/master.m3u8
+
+#EXTINF:-1 group-title="Dakwah" tvg-id="artvisi.id" tvg-logo="https://iptv.urfan.web.id/logo/artvisi.png",ARTVISI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://streaming.yufid.com/hls/artvisi.m3u8
+
+#EXTINF:-1 group-title="Dakwah" tvg-id="sunnahtv.sa" tvg-logo="https://iptv.urfan.web.id/logo/sunnahtv.png",Sunnah TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://ythls.urfan.web.id/stream/UCROKYPep-UuODNwyipe6JMw/master.m3u8
+
+#EXTINF:-1 group-title="Dakwah" tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://iptv.urfan.web.id/logo/qurantv.png",Qur'an TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://ythls.urfan.web.id/stream/UCos52azQNBgW63_9uDJoPDA/master.m3u8
+
+#EXTINF:-1 group-title="Dakwah" tvg-id="MTATV.id" tvg-logo="https://iptv.urfan.web.id/logo/mtatv.png",MTA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://ythls.urfan.web.id/stream/UCIrj7gqiu8uUfgMitYFzkNg/master.m3u8
+
 #EXTINF:-1 group-title="Drakor" tvg-id="nadoo.sg" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/NaDooKorean.jpg",NaDoo Korean 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8

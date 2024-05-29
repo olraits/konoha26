@@ -1,8 +1,50 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz"
 
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz"
 
 ============================================= LOCAL =============================================
 =====================================================================================================
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Stingray  Greatest Hits
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1385&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=Xuew2uGdQ_xypyxEMpTm&custom_7=61aa97d4113e1e5137fd5325&is_lat=0
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Stingray Hit List
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1388&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=Xuew2uGdQ_xypyxEMpTm&custom_7=61aaa014784a2161d3caf7fd&is_lat=0
+
+#EXTINF:-1 group-title="FM" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Radio Kajian Islam
+https://stream.zeno.fm/ge2ekgd7f18uv
+#EXTINF:-1 group-title="FM" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", 1921 BHOR - Bali Headbanger Online Radio
+https://stream.zeno.fm/h5akw5vnsp8uv
+#EXTINF:-1 group-title="FM" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Radio Islam Sinar Sunnah
+https://stream.zeno.fm/ecen9zbtyhhvv
+#EXTINF:-1 group-title="FM" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", RADIO PENSIUNAN
+https://stream.zeno.fm/mlfr0ulhcomuv
+#EXTINF:-1 group-title="FM" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Radio Suara Al-Iman
+https://stream.zeno.fm/3p2ygnssu98uv
+#EXTINF:-1 group-title="FM" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Madina_Radio
+https://stream.zeno.fm/b41be1un92quv
+#EXTINF:-1 group-title="FM" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", GABUT RADIO
+https://stream.zeno.fm/xz4n0rwh9hhvv
+#EXTINF:-1 group-title="FM" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Radio Murottal
+https://stream.zeno.fm/agv8w1xp1uhvv
+#EXTINF:-1 group-title="FM" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Global TV Throwback Hits
+https://stream.zeno.fm/ehn9gybgqd0uv
+#EXTINF:-1 group-title="FM" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Cahaya Hidayah Sunnah
+https://stream.zeno.fm/6a3agbqh308uv
+#EXTINF:-1 group-title="FM" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Prambors Throwback
+https://stream.zeno.fm/8b8h880erwzuv
+#EXTINF:-1 group-title="FM" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", RADIO STREAMING ISLAM FM
+https://stream.zeno.fm/51ha9danbd0uv
+#EXTINF:-1 group-title="FM" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Women Radio abe Jakarta
+https://stream.zeno.fm/1mk624cmu5quv
+#EXTINF:-1 group-title="FM" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Radio Classic Reformed
+https://stream.zeno.fm/41vyntmg31zuv
+#EXTINF:-1 group-title="FM" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Retrosquad Radio
+https://stream.zeno.fm/hz9lwpyveyxuv
+#EXTINF:-1 group-title="FM" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Hitz Radio Batam
+https://stream.zeno.fm/kdphzbrn096vv
+#EXTINF:-1 group-title="FM" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Radio An-Najiyah
+https://stream.zeno.fm/gsn4kxkty68uv
+#EXTINF:-1 group-title="FM" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", UI Music Station
+https://stream.zeno.fm/sgae2t7tn0hvv
+
 #EXTINF:-1 group-logo="https://lilir-play.github.io/img/lokal.png",
 #EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="Sport",True Premier 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 

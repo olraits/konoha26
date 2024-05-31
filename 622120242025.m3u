@@ -15,11 +15,11 @@ https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="film",DiscoverFilm
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="香港开电视" tvg-name="香港开电视" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/HOYTV.png" group-title="HK",HOY電視
-http://27.36.62.163:9090/live/xgmingzhu_1500.m3u8?ci=123&srchost=172.16.149.181:8060
+http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="HOY TV 資訊台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/HOYNEWS.png" group-title="HK",HOY資訊台
-http://27.36.62.163:9090/live/xgfeicui_1500.m3u8?ci=123&srchost=172.16.149.181:8060
+http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/Nownews.png" group-title="HK",Now新聞台
-
+http://111.230.195.119:80/香蕉哥/hoy78/hls.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Painting" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/theGobRoss.webp",The Bob Ross Channelᴴᴰ  🟤
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8

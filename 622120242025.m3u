@@ -21,6 +21,7 @@ https://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/Nownews.png" group-title="HK",TVB3
 https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="HOY TV 資訊台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/HOYNEWS.png" group-title="HK",Jade
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 https://v2h.jdshipin.com/jade/jade.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Painting" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/theGobRoss.webp",The Bob Ross Channelᴴᴰ  🟤

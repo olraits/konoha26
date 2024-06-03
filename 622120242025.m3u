@@ -24,13 +24,36 @@ https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 https://ythls.armelin.one/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Motors",Motorstories
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Films",Hi-yaah movies
-https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Painting" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/theGobRoss.webp",The Bob Ross Channelᴴᴰ  🟤
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="kids_film",kids movies
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Films",movies+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Painting",Bob R0ss
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Yacht" tvg-logo="https://sck.pm/ctcN",superyacht tvᴴᴰ 🇺🇸
-https://sy.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Home",Luxurious Home
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991651
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NFL", NFL
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,NFL2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NHL", NHL
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="kartun", kartun24/7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=547
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="kartun", ANime24/7
+https://stmv1.srvif.com/animetv/animetv/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="dramafilm", kor_us24/7
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="dramafilm", CJ EM
+https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="dramafilm", SBS TV
+https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="dramafilm", MBC TV
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="danceKOR", IDS
+https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="eksyensinema", Crackle
+https://crackle-plex.amagi.tv/playlist.m3u8?c
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="eksyensinema", Eksyen#1
+https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
 
 #EXTINF:-1 tvg-id="GolTVUSA.us" group-title="Liga Bwin" tvg-logo="https://github.com/serviciovodflex/nxt-guide/raw/main/img/deportes/gol-tv.png",Goltv  🟡
 http://tkosportz.live:25461/swilder2023/6063815781/99361

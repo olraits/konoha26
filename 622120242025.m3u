@@ -7,6 +7,22 @@
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1385&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=Xuew2uGdQ_xypyxEMpTm&custom_7=61aa97d4113e1e5137fd5325&is_lat=0
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Stingray Hit List
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1388&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=Xuew2uGdQ_xypyxEMpTm&custom_7=61aaa014784a2161d3caf7fd&is_lat=0
+#EXTINF:-1 group-title="MUSIK" tvg-logo="", Deluxe lounge
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2664
+#EXTINF:-1 group-title="Pilem" tvg-logo="", CracklePlex
+https://crackle-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Pilem" tvg-logo="", HBO HD
+http://gg.gg/HaNoiIPTV-HBO_HD
+#EXTINF:-1 group-title="Sedjarah" tvg-logo="", History
+https://cdn1.mobiletv.bg/T10/history/history_794613_850k.m3u8
+#EXTINF:-1 group-title="Pilem" tvg-logo="", Hi-Yah!
+https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="sporty" tvg-logo="", morethansports
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 group-title="sporty" tvg-logo="", fussball/tablesoccer
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7333
+#EXTINF:-1 group-title="muzzik" tvg-logo="", rockmuzzik
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="power",Strongman Champions League
 https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
@@ -20,6 +36,9 @@ https://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 https://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/Nownews.png" group-title="HK",TVB3
 https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="TVB无线财经" tvg-name="TVB无线财经" tvg-logo="https://epg.112114.xyz/logo/无线财经.png" group-title="HK",TVBIV
+https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
+
 #EXTINF:-1 tvg-id="PokemonKidsTVEnglish.jp" tvg-logo="https://i.imgur.com/0nDftk7.jpg" group-title="Pokemon",Pokemon Kids TV English
 https://ythls.armelin.one/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Motors",Motorstories

@@ -50,25 +50,7 @@ https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="danceKOR", IDS
 https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZyhqw0/metro-tv.png" group-title=Local, METROTV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4497473c5b978655ce62de7873e04174:6af319f8d82351f8c3b18c9abdfdef4d
-https://melon-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7kzd01H/peacock.png" group-title="PL" , Peacock PL
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HNW9Fmp/snworld.png" group-title="CND_SPORTS", SN World 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44f6a1e5467d4df7a9da2d1b96ee62ca:157d3d7156dd1b288d661d453dbfc682
-https://live-streaming-rsm.azureedge.net/snwlh/snwlh_cenc.isml/.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HxMRx9Z/sn.png" group-title="CND_SPORTS", SN1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f9dd2ed9609f49309ddf07892d25b081:c1254109aaff73701fbea97dc1899b8e
-https://live-streaming-rsm.akamaized.net/sn1hd/sn1hd_cenc.isml/.mpd
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="eksyensinema", Crackle
 https://crackle-plex.amagi.tv/playlist.m3u8?c
@@ -183,11 +165,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg13231-actve-skateboarding-ono/playl
 https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="" group-title="US" tvg-logo="https://i.imgur.com/abtANyj.png",AMC+ East 
 https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Doc" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/CGTN-Documentary.png",CGTN Documentary 🇺🇸 🟤
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Doc" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/CGTN-Documentary.png",CGTN Documentary 🟤
 https://livedoc.cgtn.com/1000d/prog_index.m3u8?wowzasessionid=inspiration
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Doc" tvg-logo="https://a.jsrdn.com/hls/22943/documentary/logo_20210316_230446_68.png",Doc+ᴴᴰ 🇺🇸 🟤
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Doc" tvg-logo="https://a.jsrdn.com/hls/22943/documentary/logo_20210316_230446_68.png",Doc+ᴴᴰ  🟤
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991638
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Doc" tvg-logo="https://www.autentic.com/images/History-Logo-positiv-RGB.svg",Autentic History 🇺🇸 🟤
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Doc" tvg-logo="https://www.autentic.com/images/History-Logo-positiv-RGB.svg",Autentic History 🟤
 https://autentic-autentichistory-1-gb.lg.wurl.tv/3000.m3u8
 
 #EXTINF:-1 group-title="FM" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Radio Kajian Islam

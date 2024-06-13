@@ -3,6 +3,8 @@
 
 ============================================= LOCAL =============================================
 =====================================================================================================
+#EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://i.imgur.com/LCzQYdy.png" group-title="Berita ID",tvOne
+https://ythls.armelin.one/channel/UCER4rvDnRBPr_ncYW4UCZjg.m3u8
 #EXTINF:-1 group-title="ENG MOV",Akamai Movies
 https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="LIVE",LIVE 1

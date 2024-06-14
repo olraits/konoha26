@@ -10,6 +10,17 @@ https://ythls.armelin.one/channel/UC5BMIWZe9isJXLZZWPWvBlg.m3u8
 #EXTINF:-1 tvg-id="MetroTV.id" group-title="Berita ID",Metro TV 
 https://ythls.armelin.one/channel/UCzl0OrB3-ehunyotIQvK77A.m3u8
 
+#EXTINF:-1 tvg-id="GBBD3000004VR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3000004VR_20231213T033113SQUARE.png_20231213033114.png" group-title="Skena",GIGS
+https://i.mjh.nz/SamsungTVPlus/GBBD3000004VR.m3u8
+#EXTINF:-1 tvg-id="GBBC2300002GG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300002GG_20240117T032832SQUARE.png_20240117032832.png" group-title="Skena",America's Got Talent
+https://i.mjh.nz/SamsungTVPlus/GBBC2300002GG.m3u8
+#EXTINF:-1 tvg-id="GBBC900007Q5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900007Q5_20221123T010227SQUARE.png_20221123010228.png" group-title="Pilem",GREAT! movies
+https://i.mjh.nz/SamsungTVPlus/GBBC900007Q5.m3u8
+#EXTINF:-1 tvg-id="GBBC900008L9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900008L9_20240117T032828SQUARE.png_20240117032828.png" group-title="Pilem",Great! romance
+https://i.mjh.nz/SamsungTVPlus/GBBC900008L9.m3u8
+#EXTINF:-1 tvg-id="GBBD1100010UB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100010UB_20230712T021203SQUARE.png_20230712021204.png" group-title="Wibu",Super Anime
+https://i.mjh.nz/SamsungTVPlus/GBBD1100010UB.m3u8
+
 #EXTINF:-1 tvg-id="JoyPrime.gh" group-title="Movies West",Joy Prime (720p)
 https://ythls.armelin.one/channel/UC9hyY_wWSJnkUKPfrfOP4dQ.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="LIVE",LIVE 1

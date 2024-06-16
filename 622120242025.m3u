@@ -59,6 +59,8 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/264761
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/264767
 #EXTINF:-1 tvg-logo="" group-title="Bolaa", See Sports
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298577
+#EXTINF:-1 tvg-logo="" group-title="Bolaa", cctv4
+https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
 
 #EXTINF:-1 tvg-id="GBBD3000004VR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3000004VR_20231213T033113SQUARE.png_20231213033114.png" group-title="Skena",GIGS
 https://i.mjh.nz/SamsungTVPlus/GBBD3000004VR.m3u8

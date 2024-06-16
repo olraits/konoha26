@@ -11,6 +11,54 @@ https://ythls.armelin.one/channel/UC5BMIWZe9isJXLZZWPWvBlg.m3u8
 https://ythls.armelin.one/channel/UCzl0OrB3-ehunyotIQvK77A.m3u8
 #EXTINF:-1 tvg-id="MetroTV.id" group-title="Berita ID",Metro TV 
 https://aufannada.github.io/streaming/metrotv.m3u8
+#EXTINF:0 group-title="KoreaLive" tvg-logo="https://i.ibb.co.com/G2JL35L/images-1-1.jpg", K plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64
+https://op-group1-swiftservehd-1.dens.tv/h/h08/02.m3u8
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://i.ibb.co.com/FK4Jpf5/images-2-1.jpg" group-title="BedahRokum", HGTV
+https://varun-iptv.netlify.app/m3u/HGTV.m3u8
+#EXTINF:0 tvg-id="709" tvg-name="AFN" tvg-logo="https://i.postimg.cc/nVWkWG2s/afn.png" group-title="LAPARrr",Asian Food Network HD
+https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
+#EXTINF:-1 group-title="SAINS" tvg-id="discoveryscienceuk.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/1280px-Discovery_Science_-_Logo_2012.svg.png",Discovery Science
+https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+#EXTINF:-1 group-title="TURBO" tvg-id="discoveryturbouk.uk" tvg-logo="https://i.imgur.com/9sYeQuS.png",Discovery Turbo 
+https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kgHLxbz/FLIK.jpg" group-title="Pilems", FLIK
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60GZP2d/SERU-CH.jpg" group-title="HipHipHura", SERU CHANNEL
+https://cdn08jtedge.indihometv.com/dassdvr/134/seru/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V0GB1Mm/Aniplus.jpg" group-title="Wibuu", ANIPLUS
+http://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="plus21", teater 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298526
+http://iptvtree.net:8080/F26646/f950f250/298526
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVpYgTt/dens-showbiz-logo-tv.jpg" group-title="SWARA", SHowbiz
+https://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="plus21", teater 2
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298527
+http://iptvtree.net:8080/F26646/f950f250/298527
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="plus21", teater 3
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298528
+http://iptvtree.net:8080/F26646/f950f250/298528
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="plus21", teater 4
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298529
+http://iptvtree.net:8080/F26646/f950f250/298529
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jyKv1mh/Smart-Select-20230610-160356-Picsart.jpg" group-title="RELIGI", ASSUNAH ANABAWI
+http://210.210.155.37/x6bnqe/s/s27/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dMcSJZc/RODJA-tv.jpg" group-title="RELIGI", RODJA TV
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/ (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h233/01.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sounds", Prambors tv
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/264761
+#EXTINF:-1 tvg-logo="" group-title="Musium", Smithsonian HD
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/264767
+#EXTINF:-1 tvg-logo="" group-title="Bolaa", See Sports
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298577
 
 #EXTINF:-1 tvg-id="GBBD3000004VR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3000004VR_20231213T033113SQUARE.png_20231213033114.png" group-title="Skena",GIGS
 https://i.mjh.nz/SamsungTVPlus/GBBD3000004VR.m3u8

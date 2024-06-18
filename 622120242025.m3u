@@ -12,6 +12,9 @@ https://ythls.armelin.one/channel/UCzl0OrB3-ehunyotIQvK77A.m3u8
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="https://alkhalifi1.github.io/TV/big/metrotv.png" group-logo="https://alkhalifi1.github.io/TV/logo/group/berita.png" group-title="Berita ID",METRO TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="https://alkhalifi1.github.io/TV/big/metrotv.png" group-logo="https://alkhalifi1.github.io/TV/logo/group/berita.png" group-title="Berita ID",METRO TV HD (BackUp)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8
 
 #EXTINF:0 group-title="KoreaLive" tvg-logo="https://i.ibb.co.com/G2JL35L/images-1-1.jpg", K plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64

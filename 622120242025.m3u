@@ -30,7 +30,25 @@ https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kgHLxbz/FLIK.jpg" group-title="Pilems", FLIK
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+https://okegas.transvision.workers.dev/dassdvr/133/flik/manifest.mpd
+#EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://thumbor.prod.vidiocdn.com/1aBtxuqsb5_gW9CxD50aOGR5ys0=/1280x720/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8134243/nba-gametime-06-april-2024-9ed845.jpg" group-title="baskets",NBA
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://okegas.transvision.workers.dev/dassdvr/133/nba/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=Dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/Bmv3iTkuSqCj3J2swo0flndH8x8=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg" group-title="Sportss",Bein Sports Indo 1
+https://okegas.transvision.workers.dev/dassdvr/133/beib1/manifest.mpd
+  
+#KODIPROP:inputstream.adaptive.manifest_type=Dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/XW3QKDaZSyn3iYKafLb4fhbcTwg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-e1add8.jpg" group-title="Sportss",Bein Sports Indo 3
+https://okegas.transvision.workers.dev/dassdvr/133/beib2/manifest.mpds
 #EXTINF:-1 tvg-logo="https://i.ibb.co/60GZP2d/SERU-CH.jpg" group-title="HipHipHura", SERU CHANNEL
 https://cdn08jtedge.indihometv.com/dassdvr/134/seru/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V0GB1Mm/Aniplus.jpg" group-title="Wibuu", ANIPLUS

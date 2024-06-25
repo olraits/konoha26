@@ -1,5 +1,16 @@
 
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz"
+============================================= Live S.bol =============================================
+=====================================================================================================
+#EXTINF:-1 group-title="Live S.bol" tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/belanda-vs-austria.jpg", Live#1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
+
+#EXTINF:-1 group-title="Live S.bol" tvg-logo="https://foto.kontan.co.id/ToWzoikdHQRPB5IFePkuhXMrVao=/smart/2024/06/23/1700140156p.jpg", Live#2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
 
 ============================================= LOCAL =============================================
 =====================================================================================================
@@ -7,8 +18,6 @@
 https://ythls.armelin.one/channel/UCER4rvDnRBPr_ncYW4UCZjg.m3u8
 #EXTINF:-1 tvg-id="KompasTV.id" group-title="Berita ID",Kompas TV
 https://ythls.armelin.one/channel/UC5BMIWZe9isJXLZZWPWvBlg.m3u8
-#EXTINF:-1 tvg-id="MetroTV.id" group-title="Berita ID",Metro TV 
-https://ythls.armelin.one/channel/UCzl0OrB3-ehunyotIQvK77A.m3u8
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="https://alkhalifi1.github.io/TV/big/metrotv.png" group-logo="https://alkhalifi1.github.io/TV/logo/group/berita.png" group-title="Berita ID",METRO TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8

@@ -2,16 +2,14 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz"
 ============================================= Live S.bol =============================================
 =====================================================================================================
-#EXTINF:-1 group-title="Live S.bol" tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/belanda-vs-austria.jpg", Live#1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
+EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19995009_ico.png?ts=1660430078" group-title="Live S.bol",Astro SuperSport#
+https://m3.ballnaja.com/live/assp1/chunks.m3u8
 
-#EXTINF:-1 group-title="Live S.bol" tvg-logo="https://foto.kontan.co.id/ToWzoikdHQRPB5IFePkuhXMrVao=/smart/2024/06/23/1700140156p.jpg", Live#2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
+EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994996_ico.png?ts=1660430115" group-title="Live S.bol",Astro SuperSport 2
+https://m3.ballnaja.com/live/assp2/chunks.m3u8
 
+EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994961_ico.png?ts=1660430151" group-title="Live S.bol",Astro SuperSport 3
+https://m3.ballnaja.com/live/assp3/chunks.m3u8
 ============================================= LOCAL =============================================
 =====================================================================================================
 #EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://i.imgur.com/LCzQYdy.png" group-title="Berita ID",tvOne

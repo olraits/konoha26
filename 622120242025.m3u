@@ -10,25 +10,7 @@ https://katanaboss.online/chunklist/hlsch2.m3u8
 https://katanaboss.online/chunklist/hlsch3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="Live S.bol",FS4
 https://katanaboss.online/chunklist/hlsch4.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="Live S.bol",FS5
-https://katanaboss.online/chunklist/hlsch5.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="Live S.bol",FS6
-https://katanaboss.online/chunklist/hlsch6.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="Live S.bol",FS7
-https://katanaboss.online/chunklist/hlsch7.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="Live S.bol",FS8
-https://katanaboss.online/chunklist/hlsch8.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="Live S.bol",FS9
-https://katanaboss.online/chunklist/hlsch9.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="Live S.bol",FS10
-https://katanaboss.online/chunklist/hlsch10.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19995009_ico.png?ts=1660430078" group-title="Live S.bol",Astro SuperSport#
-https://m3.ballnaja.com/live/assp1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994996_ico.png?ts=1660430115" group-title="Live S.bol",Astro SuperSport 2
-https://m3.ballnaja.com/live/assp2/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994961_ico.png?ts=1660430151" group-title="Live S.bol",Astro SuperSport 3
-https://m3.ballnaja.com/live/assp3/chunks.m3u8
 ============================================= LOCAL =============================================
 =====================================================================================================
 #EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://i.imgur.com/LCzQYdy.png" group-title="Berita ID",tvOne

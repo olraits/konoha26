@@ -2,7 +2,10 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz"
 ============================================= Live S.bol =============================================
 =====================================================================================================
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JOyXnZb.jpeg" group-title="Live S.bol", PPTV 36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 ============================================= LOCAL =============================================
 =====================================================================================================
 #EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://i.imgur.com/LCzQYdy.png" group-title="Berita ID",tvOne

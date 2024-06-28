@@ -6,6 +6,13 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" group-title="Live S.bol", bol#1 (krezyieTV) 
+http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/11315.m3u8
+#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" group-title="Live S.bol", bol#2 (krezyieTV)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
+
 ============================================= LOCAL =============================================
 =====================================================================================================
 #EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://i.imgur.com/LCzQYdy.png" group-title="Berita ID",tvOne
@@ -21,6 +28,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/movie/k%20movies.png" group-title="Kmovies_new",new k-movies
 https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60d4eddab2fdec002c141131&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6vZNJTC/mbc.jpg" group-title="Kmovies_new",Mbc(kor)
+https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w1150278138.m3u8 
 #EXTINF:0 group-title="KoreaLive" tvg-logo="https://i.ibb.co.com/G2JL35L/images-1-1.jpg", K plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64
 https://op-group1-swiftservehd-1.dens.tv/h/h08/02.m3u8

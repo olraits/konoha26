@@ -8,12 +8,6 @@
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" group-title="Live S.bol", bol#1 (krezyieTV) 
 http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/11315.m3u8
-#EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="Live S.bol", EURO 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ca20a93cf8e3421dafbd5bdb1990081b:86ae86a7391c481ea93eecdb740f0a14
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/2/2.mpd
 #EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="Live S.bol",CCTV 5
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
@@ -76,7 +70,7 @@ http://210.210.155.37/x6bnqe/s/s27/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Musium", Smithsonian HD
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/264767
 #EXTINF:-1 tvg-logo="" group-title="yutub", Frekuensi musikindo
-https://www.youtube.com/live/y6kKW2mDgS8?si=M0fEDauO3Mg7AzdS
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719657853/ei/HZF_ZuqpCvzOjuMP2ZefwAI/ip/2001%3A448a%3A2034%3A2918%3A501b%3A51fb%3Af8d7%3A8242/id/y6kKW2mDgS8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181296/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f6Sexd1XgohW6Rx_T2jBkPpYR46dRd4B8A0LgHIm-HWmcpqnpWafrn3cHz_42lGkFUkNLkPF/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAL6X-QPVl9Wr-8JIbHw2KasCfiGUn4rWxdnXj6HXntl0AiALQJpYIuJm_CLlteQz-UE9mU7bNqkjK5mzJJ8nwLMAkA%3D%3D/file/index.m3u8
 
 
 #EXTINF:-1 tvg-id="GBBD3000004VR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3000004VR_20231213T033113SQUARE.png_20231213033114.png" group-title="Skena",GIGS

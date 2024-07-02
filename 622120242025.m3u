@@ -2,7 +2,35 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz"
 ============================================= Spontan Uhuyy =============================================
 =====================================================================================================
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spontan Uhuyy", lokal bola/int'l
+http://103.155.250.139:25461/live/v3/Ub5dHa4TJp/228.m3u8
+http://mykingtv.net:2082/live/zaki880/8890/5117.ts
+http://iptvtree.net:8080/live/one-day-test-89fc/54CbToqS2c/162138.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spontan Uhuyy", lokal voliebola/int'l
+http://103.155.250.139:25461/live/v3/Ub5dHa4TJp/4.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spontan Uhuyy", sinema#1
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298526.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spontan Uhuyy", sinema#2
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298527.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spontan Uhuyy", sinema#3
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298528.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spontan Uhuyy", sinema#IV
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298529.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spontan Uhuyy", Disckovery Sedjarah
+http://tkosportz.live:25461/live/edaniels2023/6066225419/45995.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spontan Uhuyy", AsspIV
+http://vo01.mohdtv.com:8880/live/ALLChannels00039220/06924580/1719.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spontan Uhuyy", UFCi
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:1D:06:6D&stream=26076&extension=m3u8
+http://fortv.cc:8080/live/ericka/ericka1/146293.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spontan Uhuyy", Optus#1
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:1D:06:6D&stream=74981&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spontan Uhuyy", Dsny
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:1D:06:6D&stream=208&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spontan Uhuyy", Ball#1
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:1D:06:6D&stream=3338_&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spontan Uhuyy", Ball#2
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:1D:06:6D&stream=26080&extension=m3u8
 ============================================= Live S.bol =============================================
 =====================================================================================================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JOyXnZb.jpeg" group-title="Live S.bol", PPTV 36 

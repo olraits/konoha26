@@ -2,6 +2,24 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz"
 ============================================= Spontan Uhuyy =============================================
 =====================================================================================================
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Spontan Uhuyy" tvg-url="" tvg-logo="https://i.ibb.co/0Xhtnk1/sony-pic-logo-tv.jpg", PIX
+http://vo01.mohdtv.com:8880/voby0579/36128229/55291
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Spontan Uhuyy" tvg-url="" tvg-logo="", &prive
+http://vo01.mohdtv.com:8880/voby0579/36128229/1963
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Spontan Uhuyy" tvg-url="" tvg-logo="", &flix
+http://vo01.mohdtv.com:8880/voby0579/36128229/1956
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Spontan Uhuyy" tvg-url="" tvg-logo="g", &pic
+http://vo01.mohdtv.com:8880/voby0579/36128229/1964
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Spontan Uhuyy" tvg-url="" tvg-logo="", &tv
+http://vo01.mohdtv.com:8880/voby0579/36128229/1962
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Spontan Uhuyy" tvg-url="" tvg-logo="", stargoldselect
+http://vo01.mohdtv.com:8880/voby0579/36128229/55256
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Spontan Uhuyy" tvg-url="" tvg-logo="", starmovee
+http://vo01.mohdtv.com:8880/voby0579/36128229/55252
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Spontan Uhuyy" tvg-url="" tvg-logo="", starselect1
+http://vo01.mohdtv.com:8880/voby0579/36128229/55269
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Spontan Uhuyy" tvg-url="" tvg-logo="", starselect2
+http://vo01.mohdtv.com:8880/voby0579/36128229/55270
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spontan Uhuyy", lokal bola/int'l
 http://103.155.250.139:25461/live/v3/Ub5dHa4TJp/228.m3u8
 http://mykingtv.net:2082/live/zaki880/8890/5117.ts
@@ -2275,7 +2293,8 @@ https://liveaneviadev.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 http://210.210.155.35/uq2663/h/h18/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=My_Cinema_Europe_HD
 
 #EXTINF:0 tvg-id="" tvg-name="" group-title="MOVIES" tvg-url="" tvg-logo="https://i.ibb.co/0Xhtnk1/sony-pic-logo-tv.jpg", SONY PIX
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+http://vo01.mohdtv.com:8880/voby0579/36128229/55291
+#https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/2fbpjjc62gjfhg4zfkygk/Hbo.jpeg?rlkey=la7ttd0lc42eg3qbq6e7yc5xr&dl=0" group-title="CupCupmuah", HBO (C)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 

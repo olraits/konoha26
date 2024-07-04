@@ -43,7 +43,14 @@ https://op-group1-swiftservehd-1.dens.tv/h/h91/S4/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spontan Uhuyy", wspo0rts (D)
 https://op-group1-swiftservehd-1.dens.tv/h/h26/S1/mnf.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spontan Uhuyy", snowy mountain
+https://185043-castr.akamaized.net/62dc75c81d350f50023a3d01/live_2a10d2606c3711edbc96a96176a0fe35/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spontan Uhuyy", smuvis1
+https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spontan Uhuyy", smuvis2
+https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spontan Uhuyy", smuvis3
+https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
 ============================================= Live S.bol =============================================
 =====================================================================================================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JOyXnZb.jpeg" group-title="Live S.bol", PPTV 36 

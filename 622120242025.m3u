@@ -51,6 +51,10 @@ https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index
 https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spontan Uhuyy", smuvis3
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spontan Uhuyy", topgear (AS)
+https://shls-live-ak.akamaized.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spontan Uhuyy", rockstars (AR)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
 ============================================= Live S.bol =============================================
 =====================================================================================================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JOyXnZb.jpeg" group-title="Live S.bol", PPTV 36 

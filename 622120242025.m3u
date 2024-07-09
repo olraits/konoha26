@@ -1,4 +1,3 @@
-
 EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz"
 #EXTINF:0 tvg-logo="https://lilir-play.github.io/img/tvone.jpg" group-title="Local",TVONE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
